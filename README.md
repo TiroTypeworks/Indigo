@@ -1,4 +1,4 @@
-![Indigo](https://github.com/TiroTypeworks/Indigo/blob/master/docs/images/indigobanner_2000.png)
+![Indigo](https://github.com/TiroTypeworks/Indigo/tree/main/docs/images/indigobanner_2000.png)
 ## About Indigo
 
 **5 March 2022**
