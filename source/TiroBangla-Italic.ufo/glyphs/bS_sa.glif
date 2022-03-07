@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSsa" format="2">
+  <advance width="568"/>
+  <unicode hex="09B7"/>
+  <outline>
+    <contour>
+      <point x="413" y="127" type="line"/>
+      <point x="395" y="116" type="line"/>
+      <point x="335" y="205"/>
+      <point x="255" y="250"/>
+      <point x="180" y="273" type="curve"/>
+      <point x="180" y="276" type="line"/>
+      <point x="238" y="315"/>
+      <point x="304" y="352"/>
+      <point x="370" y="389" type="curve"/>
+      <point x="293" y="445" type="line"/>
+      <point x="219" y="403"/>
+      <point x="139" y="357"/>
+      <point x="58" y="304" type="curve"/>
+      <point x="113" y="211" type="line"/>
+      <point x="301" y="193"/>
+      <point x="391" y="96"/>
+      <point x="408" y="-16" type="curve"/>
+    </contour>
+    <contour>
+      <point x="446" y="352" type="line"/>
+      <point x="380" y="427"/>
+      <point x="313" y="492"/>
+      <point x="238" y="550" type="curve"/>
+      <point x="253" y="572" type="line"/>
+      <point x="90" y="525" type="line"/>
+      <point x="202" y="523"/>
+      <point x="263" y="483"/>
+      <point x="436" y="297" type="curve"/>
+    </contour>
+    <contour>
+      <point x="444" y="-33" type="line"/>
+      <point x="458" y="68"/>
+      <point x="469" y="132"/>
+      <point x="484" y="208" type="curve" smooth="yes"/>
+      <point x="554" y="568" type="line"/>
+      <point x="475" y="568" type="line"/>
+      <point x="447" y="422" type="line" smooth="yes"/>
+      <point x="417" y="268"/>
+      <point x="396" y="156"/>
+      <point x="398" y="111" type="curve"/>
+      <point x="408" y="-16" type="line"/>
+      <point x="433" y="-33" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="552" type="line"/>
+      <point x="636" y="552" type="line"/>
+      <point x="638" y="560" type="line"/>
+      <point x="590" y="620" type="line"/>
+      <point x="22" y="620" type="line"/>
+      <point x="20" y="612" type="line"/>
+      <point x="90" y="525" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.874,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

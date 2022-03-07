@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tArasunna" format="2">
+  <advance width="471"/>
+  <unicode hex="0C01"/>
+  <outline>
+    <contour>
+      <point x="311" y="-15" type="curve" smooth="yes"/>
+      <point x="330" y="-15"/>
+      <point x="351" y="-13"/>
+      <point x="371" y="-6" type="curve"/>
+      <point x="368" y="33" type="line"/>
+      <point x="353" y="30"/>
+      <point x="338" y="29"/>
+      <point x="323" y="29" type="curve" smooth="yes"/>
+      <point x="230" y="29"/>
+      <point x="161" y="106"/>
+      <point x="161" y="222" type="curve" smooth="yes"/>
+      <point x="161" y="371"/>
+      <point x="261" y="481"/>
+      <point x="393" y="481" type="curve" smooth="yes"/>
+      <point x="409" y="481"/>
+      <point x="429" y="481"/>
+      <point x="453" y="475" type="curve"/>
+      <point x="469" y="517" type="line"/>
+      <point x="440" y="524"/>
+      <point x="413" y="525"/>
+      <point x="398" y="525" type="curve" smooth="yes"/>
+      <point x="220" y="525"/>
+      <point x="65" y="405"/>
+      <point x="65" y="225" type="curve" smooth="yes"/>
+      <point x="65" y="85"/>
+      <point x="178" y="-15"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="255"/>
+  <guideline angle="90" x="348" y="0"/>
+  <guideline angle="90" x="417" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.874,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

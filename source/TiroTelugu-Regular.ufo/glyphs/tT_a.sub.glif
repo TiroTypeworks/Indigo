@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tTa.sub" format="2">
+  <outline>
+    <contour>
+      <point x="229" y="-323" type="line" smooth="yes"/>
+      <point x="331" y="-323"/>
+      <point x="379" y="-265"/>
+      <point x="379" y="-197" type="curve" smooth="yes"/>
+      <point x="379" y="-127"/>
+      <point x="327" y="-88"/>
+      <point x="268" y="-88" type="curve" smooth="yes"/>
+      <point x="203" y="-88"/>
+      <point x="159" y="-135"/>
+      <point x="159" y="-189" type="curve" smooth="yes"/>
+      <point x="159" y="-215"/>
+      <point x="167" y="-250"/>
+      <point x="220" y="-291" type="curve"/>
+      <point x="267" y="-258" type="line"/>
+      <point x="230" y="-258"/>
+      <point x="201" y="-230"/>
+      <point x="201" y="-194" type="curve" smooth="yes"/>
+      <point x="201" y="-158"/>
+      <point x="230" y="-131"/>
+      <point x="267" y="-131" type="curve" smooth="yes"/>
+      <point x="304" y="-131"/>
+      <point x="334" y="-158"/>
+      <point x="334" y="-194" type="curve" smooth="yes"/>
+      <point x="334" y="-230"/>
+      <point x="304" y="-258"/>
+      <point x="267" y="-258" type="curve"/>
+      <point x="209" y="-257" type="line"/>
+      <point x="-359" y="-257" type="line"/>
+      <point x="-356" y="-323" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

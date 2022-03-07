@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tKa.pssp2" format="2">
+  <advance width="378"/>
+  <outline>
+    <contour>
+      <point x="-89" y="-444" type="curve" smooth="yes"/>
+      <point x="40" y="-444"/>
+      <point x="124" y="-345"/>
+      <point x="124" y="-222" type="curve" smooth="yes"/>
+      <point x="124" y="-177"/>
+      <point x="112" y="-138"/>
+      <point x="100" y="-113" type="curve"/>
+      <point x="117" y="-88" type="line"/>
+      <point x="59" y="-111" type="line"/>
+      <point x="74" y="-137"/>
+      <point x="82" y="-177"/>
+      <point x="82" y="-220" type="curve" smooth="yes"/>
+      <point x="82" y="-312"/>
+      <point x="2" y="-361"/>
+      <point x="-77" y="-361" type="curve" smooth="yes"/>
+      <point x="-155" y="-361"/>
+      <point x="-206" y="-329"/>
+      <point x="-206" y="-247" type="curve" smooth="yes"/>
+      <point x="-206" y="-166"/>
+      <point x="-109" y="-73"/>
+      <point x="-38" y="-3" type="curve" smooth="yes"/>
+      <point x="56" y="90"/>
+      <point x="142" y="164"/>
+      <point x="142" y="285" type="curve" smooth="yes"/>
+      <point x="142" y="382"/>
+      <point x="75" y="463"/>
+      <point x="-8" y="463" type="curve" smooth="yes"/>
+      <point x="-43" y="463"/>
+      <point x="-61" y="445"/>
+      <point x="-61" y="426" type="curve" smooth="yes"/>
+      <point x="-61" y="393"/>
+      <point x="-17" y="387"/>
+      <point x="3" y="382" type="curve" smooth="yes"/>
+      <point x="61" y="368"/>
+      <point x="97" y="330"/>
+      <point x="97" y="271" type="curve" smooth="yes"/>
+      <point x="97" y="182"/>
+      <point x="16" y="99"/>
+      <point x="-67" y="19" type="curve" smooth="yes"/>
+      <point x="-161" y="-71"/>
+      <point x="-256" y="-164"/>
+      <point x="-256" y="-271" type="curve" smooth="yes"/>
+      <point x="-256" y="-385"/>
+      <point x="-182" y="-444"/>
+    </contour>
+    <contour>
+      <point x="338" y="-111" type="line"/>
+      <point x="348" y="-45" type="line"/>
+      <point x="68" y="-45" type="line"/>
+      <point x="59" y="-111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.874,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

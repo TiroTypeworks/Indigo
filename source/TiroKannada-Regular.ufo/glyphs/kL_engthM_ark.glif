@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kLengthMark" format="2">
+  <unicode hex="0CD5"/>
+  <outline>
+    <contour>
+      <point x="321" y="-113" type="curve" smooth="yes"/>
+      <point x="327" y="-113"/>
+      <point x="329" y="-105"/>
+      <point x="329" y="-94" type="curve" smooth="yes"/>
+      <point x="329" y="-69"/>
+      <point x="319" y="-29"/>
+      <point x="311" y="-15" type="curve"/>
+      <point x="188" y="39"/>
+      <point x="83" y="163"/>
+      <point x="83" y="311" type="curve" smooth="yes"/>
+      <point x="83" y="415"/>
+      <point x="137" y="473"/>
+      <point x="212" y="473" type="curve" smooth="yes"/>
+      <point x="267" y="473"/>
+      <point x="300" y="437"/>
+      <point x="300" y="400" type="curve" smooth="yes"/>
+      <point x="300" y="366"/>
+      <point x="273" y="332"/>
+      <point x="227" y="332" type="curve" smooth="yes"/>
+      <point x="177" y="332"/>
+      <point x="128" y="372"/>
+      <point x="126" y="466" type="curve"/>
+      <point x="74" y="403" type="line"/>
+      <point x="106" y="399" type="line"/>
+      <point x="120" y="303"/>
+      <point x="179" y="258"/>
+      <point x="230" y="258" type="curve" smooth="yes"/>
+      <point x="287" y="258"/>
+      <point x="336" y="314"/>
+      <point x="336" y="400" type="curve" smooth="yes"/>
+      <point x="336" y="482"/>
+      <point x="292" y="558"/>
+      <point x="210" y="558" type="curve" smooth="yes"/>
+      <point x="130" y="558"/>
+      <point x="45" y="486"/>
+      <point x="45" y="320" type="curve" smooth="yes"/>
+      <point x="45" y="133"/>
+      <point x="153" y="-15"/>
+      <point x="280" y="-93" type="curve" smooth="yes"/>
+      <point x="293" y="-101"/>
+      <point x="314" y="-113"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.SignOo" format="2">
+  <unicode hex="0A4B"/>
+  <outline>
+    <contour>
+      <point x="-370" y="869" type="line"/>
+      <point x="-374" y="856"/>
+      <point x="-377" y="831"/>
+      <point x="-377" y="813" type="curve" smooth="yes"/>
+      <point x="-377" y="727"/>
+      <point x="-302" y="707"/>
+      <point x="-245" y="707" type="curve" smooth="yes"/>
+      <point x="-210" y="707"/>
+      <point x="-187" y="711"/>
+      <point x="-162" y="711" type="curve" smooth="yes"/>
+      <point x="-120" y="711"/>
+      <point x="-64" y="707"/>
+      <point x="-66" y="603" type="curve"/>
+      <point x="-35" y="614" type="line"/>
+      <point x="-33" y="628"/>
+      <point x="-33" y="641"/>
+      <point x="-33" y="654" type="curve" smooth="yes"/>
+      <point x="-33" y="740"/>
+      <point x="-69" y="795"/>
+      <point x="-147" y="795" type="curve" smooth="yes"/>
+      <point x="-176" y="795"/>
+      <point x="-216" y="790"/>
+      <point x="-252" y="790" type="curve" smooth="yes"/>
+      <point x="-297" y="790"/>
+      <point x="-348" y="802"/>
+      <point x="-364" y="870" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

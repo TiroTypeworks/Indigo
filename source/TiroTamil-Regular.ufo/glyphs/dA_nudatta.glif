@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dAnudatta" format="2">
+  <unicode hex="0952"/>
+  <outline>
+    <contour>
+      <point x="-91" y="-252" type="line"/>
+      <point x="-91" y="-203" type="line"/>
+      <point x="-628" y="-203" type="line"/>
+      <point x="-628" y="-252" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

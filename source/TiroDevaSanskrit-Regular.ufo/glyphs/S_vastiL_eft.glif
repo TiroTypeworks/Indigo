@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SvastiLeft" format="2">
+  <advance width="826"/>
+  <unicode hex="0FD6"/>
+  <outline>
+    <contour>
+      <point x="692" y="7" type="line"/>
+      <point x="726" y="72" type="line"/>
+      <point x="726" y="82" type="line"/>
+      <point x="451" y="82" type="line"/>
+      <point x="451" y="620" type="line"/>
+      <point x="134" y="620" type="line"/>
+      <point x="100" y="555" type="line"/>
+      <point x="100" y="545" type="line"/>
+      <point x="375" y="545" type="line"/>
+      <point x="375" y="7" type="line"/>
+    </contour>
+    <contour>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="275" type="line"/>
+      <point x="719" y="275" type="line"/>
+      <point x="719" y="592" type="line"/>
+      <point x="654" y="626" type="line"/>
+      <point x="644" y="626" type="line"/>
+      <point x="644" y="351" type="line"/>
+      <point x="106" y="351" type="line"/>
+      <point x="106" y="34" type="line"/>
+      <point x="171" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="313"/>
+  <guideline angle="90" x="417" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dCandrabinduInvertedHeadline" format="2">
+  <outline>
+    <contour>
+      <point x="85" y="545" type="line"/>
+      <point x="87" y="555" type="line"/>
+      <point x="56" y="620" type="line"/>
+      <point x="-214" y="620" type="line"/>
+      <point x="-216" y="610" type="line"/>
+      <point x="-185" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="139" y="765" type="line"/>
+      <point x="110" y="860"/>
+      <point x="57" y="930"/>
+      <point x="-38" y="930" type="curve" smooth="yes"/>
+      <point x="-122" y="930"/>
+      <point x="-180" y="877"/>
+      <point x="-229" y="788" type="curve"/>
+      <point x="-167" y="734" type="line"/>
+      <point x="-130" y="804"/>
+      <point x="-86" y="865"/>
+      <point x="-20" y="865" type="curve" smooth="yes"/>
+      <point x="27" y="865"/>
+      <point x="74" y="833"/>
+      <point x="105" y="748" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-44" y="672" type="line"/>
+      <point x="27" y="735" type="line"/>
+      <point x="-30" y="800" type="line"/>
+      <point x="-102" y="739" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

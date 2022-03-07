@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kLllo" format="2">
+  <advance width="1786"/>
+  <outline>
+    <component base="kLlle"/>
+    <component base="kSignUu" xOffset="1038"/>
+    <contour>
+      <point x="223" y="-15" type="curve" smooth="yes"/>
+      <point x="304" y="-15"/>
+      <point x="376" y="39"/>
+      <point x="412" y="136" type="curve"/>
+      <point x="422" y="136" type="line"/>
+      <point x="439" y="244" type="line"/>
+      <point x="423" y="244" type="line"/>
+      <point x="387" y="145"/>
+      <point x="329" y="96"/>
+      <point x="243" y="96" type="curve" smooth="yes"/>
+      <point x="146" y="96"/>
+      <point x="104" y="157"/>
+      <point x="104" y="234" type="curve" smooth="yes"/>
+      <point x="104" y="343"/>
+      <point x="188" y="471"/>
+      <point x="270" y="471" type="curve" smooth="yes"/>
+      <point x="309" y="471"/>
+      <point x="344" y="443"/>
+      <point x="344" y="403" type="curve" smooth="yes"/>
+      <point x="344" y="365"/>
+      <point x="314" y="337"/>
+      <point x="261" y="337" type="curve" smooth="yes"/>
+      <point x="206" y="337"/>
+      <point x="170" y="368"/>
+      <point x="178" y="450" type="curve"/>
+      <point x="127" y="388" type="line"/>
+      <point x="153" y="388" type="line"/>
+      <point x="151" y="301"/>
+      <point x="198" y="263"/>
+      <point x="252" y="263" type="curve" smooth="yes"/>
+      <point x="321" y="263"/>
+      <point x="384" y="323"/>
+      <point x="384" y="424" type="curve" smooth="yes"/>
+      <point x="384" y="505"/>
+      <point x="344" y="558"/>
+      <point x="286" y="558" type="curve" smooth="yes"/>
+      <point x="179" y="558"/>
+      <point x="61" y="382"/>
+      <point x="61" y="204" type="curve" smooth="yes"/>
+      <point x="61" y="84"/>
+      <point x="114" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.874,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

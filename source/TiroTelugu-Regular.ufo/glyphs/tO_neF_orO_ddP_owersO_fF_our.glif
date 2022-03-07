@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tOneForOddPowersOfFour" format="2">
+  <advance width="262"/>
+  <unicode hex="0C79"/>
+  <outline>
+    <contour>
+      <point x="174" y="-310" type="line"/>
+      <point x="174" y="525" type="line"/>
+      <point x="88" y="520" type="line"/>
+      <point x="88" y="-315" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

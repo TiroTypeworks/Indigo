@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dGDhVa" format="2">
+  <advance width="1294"/>
+  <outline>
+    <component base="dVa" xOffset="697"/>
+    <component base="dDh.half" xOffset="275"/>
+    <contour>
+      <point x="464" y="545" type="line"/>
+      <point x="475" y="620" type="line"/>
+      <point x="34" y="620" type="line"/>
+      <point x="32" y="610" type="line"/>
+      <point x="63" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="207" y="581" type="line"/>
+      <point x="161" y="347" type="line"/>
+      <point x="100" y="347" type="line" smooth="yes"/>
+      <point x="79" y="347"/>
+      <point x="70" y="335"/>
+      <point x="70" y="318" type="curve" smooth="yes"/>
+      <point x="70" y="274"/>
+      <point x="149" y="170"/>
+      <point x="188" y="170" type="curve" smooth="yes"/>
+      <point x="203" y="170"/>
+      <point x="213" y="178"/>
+      <point x="216" y="195" type="curve" smooth="yes"/>
+      <point x="289" y="581" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.879,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

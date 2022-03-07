@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tNa.post" format="2">
+  <outline>
+    <contour>
+      <point x="-8" y="-444" type="curve" smooth="yes"/>
+      <point x="208" y="-444"/>
+      <point x="321" y="-230"/>
+      <point x="321" y="27" type="curve" smooth="yes"/>
+      <point x="321" y="353"/>
+      <point x="150" y="505"/>
+      <point x="77" y="505" type="curve" smooth="yes"/>
+      <point x="48" y="505"/>
+      <point x="32" y="485"/>
+      <point x="32" y="466" type="curve" smooth="yes"/>
+      <point x="32" y="443"/>
+      <point x="56" y="430"/>
+      <point x="76" y="423" type="curve" smooth="yes"/>
+      <point x="98" y="415"/>
+      <point x="274" y="346"/>
+      <point x="274" y="23" type="curve" smooth="yes"/>
+      <point x="274" y="-297"/>
+      <point x="126" y="-367"/>
+      <point x="7" y="-367" type="curve" smooth="yes"/>
+      <point x="-61" y="-367"/>
+      <point x="-95" y="-342"/>
+      <point x="-95" y="-316" type="curve" smooth="yes"/>
+      <point x="-95" y="-288"/>
+      <point x="-56" y="-256"/>
+      <point x="12" y="-256" type="curve" smooth="yes"/>
+      <point x="176" y="-256"/>
+      <point x="232" y="-442"/>
+      <point x="353" y="-442" type="curve" smooth="yes"/>
+      <point x="435" y="-442"/>
+      <point x="477" y="-376"/>
+      <point x="477" y="-294" type="curve"/>
+      <point x="445" y="-294" type="line"/>
+      <point x="432" y="-344"/>
+      <point x="406" y="-367"/>
+      <point x="361" y="-367" type="curve" smooth="yes"/>
+      <point x="218" y="-367"/>
+      <point x="185" y="-218"/>
+      <point x="20" y="-218" type="curve" smooth="yes"/>
+      <point x="-84" y="-218"/>
+      <point x="-153" y="-270"/>
+      <point x="-153" y="-340" type="curve" smooth="yes"/>
+      <point x="-153" y="-402"/>
+      <point x="-94" y="-444"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.874,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

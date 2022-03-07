@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.deva" format="2">
+  <advance width="184"/>
+  <outline>
+    <contour>
+      <point x="91" y="391" type="line"/>
+      <point x="20" y="319" type="line"/>
+      <point x="92" y="249" type="line"/>
+      <point x="164" y="319" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="310"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

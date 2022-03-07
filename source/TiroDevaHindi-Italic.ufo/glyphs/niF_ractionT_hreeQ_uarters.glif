@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="niFractionThreeQuarters" format="2">
+  <advance width="668"/>
+  <unicode hex="A832"/>
+  <outline>
+    <contour>
+      <point x="121" y="-5" type="line"/>
+      <point x="233" y="568" type="line"/>
+      <point x="168" y="628" type="line"/>
+      <point x="158" y="628" type="line"/>
+      <point x="47" y="55" type="line"/>
+      <point x="111" y="-5" type="line"/>
+    </contour>
+    <contour>
+      <point x="327" y="-5" type="line"/>
+      <point x="439" y="568" type="line"/>
+      <point x="374" y="628" type="line"/>
+      <point x="364" y="628" type="line"/>
+      <point x="253" y="55" type="line"/>
+      <point x="317" y="-5" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="-5" type="line"/>
+      <point x="645" y="568" type="line"/>
+      <point x="580" y="628" type="line"/>
+      <point x="570" y="628" type="line"/>
+      <point x="459" y="55" type="line"/>
+      <point x="523" y="-5" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="383"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

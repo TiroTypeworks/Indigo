@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Danda" format="2">
+  <advance width="210"/>
+  <unicode hex="0964"/>
+  <outline>
+    <contour>
+      <point x="79" y="-15" type="line"/>
+      <point x="190" y="558" type="line"/>
+      <point x="140" y="558" type="line"/>
+      <point x="29" y="-15" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.874,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

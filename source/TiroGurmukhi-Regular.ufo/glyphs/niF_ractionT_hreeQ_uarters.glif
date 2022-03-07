@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="niFractionThreeQuarters" format="2">
+  <advance width="668"/>
+  <unicode hex="A832"/>
+  <outline>
+    <contour>
+      <point x="85" y="5" type="line"/>
+      <point x="109" y="-6"/>
+      <point x="146" y="-12"/>
+      <point x="171" y="-12" type="curve"/>
+      <point x="171" y="613" type="line"/>
+      <point x="147" y="624"/>
+      <point x="110" y="630"/>
+      <point x="85" y="630" type="curve"/>
+    </contour>
+    <contour>
+      <point x="291" y="5" type="line"/>
+      <point x="315" y="-6"/>
+      <point x="352" y="-12"/>
+      <point x="377" y="-12" type="curve"/>
+      <point x="377" y="613" type="line"/>
+      <point x="353" y="624"/>
+      <point x="316" y="630"/>
+      <point x="291" y="630" type="curve"/>
+    </contour>
+    <contour>
+      <point x="497" y="5" type="line"/>
+      <point x="521" y="-6"/>
+      <point x="558" y="-12"/>
+      <point x="583" y="-12" type="curve"/>
+      <point x="583" y="613" type="line"/>
+      <point x="559" y="624"/>
+      <point x="522" y="630"/>
+      <point x="497" y="630" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y_caroncomb" format="2">
+  <advance width="601"/>
+  <outline>
+    <component base="Y"/>
+    <component base="caroncomb.cap" xOffset="590"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.977,1,1</string>
+  </dict>
+  </lib>
+</glyph>

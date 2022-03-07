@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.Abbreviation" format="2">
+  <advance width="233"/>
+  <unicode hex="0A76"/>
+  <outline>
+    <contour>
+      <point x="55" y="302" type="curve" smooth="yes"/>
+      <point x="55" y="268"/>
+      <point x="79" y="238"/>
+      <point x="116" y="238" type="curve" smooth="yes"/>
+      <point x="151" y="238"/>
+      <point x="178" y="264"/>
+      <point x="178" y="299" type="curve" smooth="yes"/>
+      <point x="178" y="333"/>
+      <point x="153" y="362"/>
+      <point x="116" y="362" type="curve" smooth="yes"/>
+      <point x="81" y="362"/>
+      <point x="55" y="337"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="310"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

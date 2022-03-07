@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.SignAi" format="2">
+  <unicode hex="0A48"/>
+  <outline>
+    <contour>
+      <point x="-128" y="616" type="line"/>
+      <point x="-225" y="745"/>
+      <point x="-276" y="777"/>
+      <point x="-367" y="777" type="curve" smooth="yes"/>
+      <point x="-405" y="777"/>
+      <point x="-459" y="770"/>
+      <point x="-489" y="765" type="curve"/>
+      <point x="-489" y="734"/>
+      <point x="-476" y="705"/>
+      <point x="-463" y="686" type="curve"/>
+      <point x="-389" y="694"/>
+      <point x="-361" y="700"/>
+      <point x="-320" y="700" type="curve" smooth="yes"/>
+      <point x="-270" y="700"/>
+      <point x="-228" y="688"/>
+      <point x="-140" y="603" type="curve"/>
+      <point x="-108" y="614" type="line"/>
+      <point x="-207" y="882"/>
+      <point x="-275" y="918"/>
+      <point x="-379" y="918" type="curve" smooth="yes"/>
+      <point x="-417" y="918"/>
+      <point x="-469" y="911"/>
+      <point x="-495" y="907" type="curve"/>
+      <point x="-495" y="876"/>
+      <point x="-483" y="848"/>
+      <point x="-470" y="829" type="curve"/>
+      <point x="-396" y="836"/>
+      <point x="-359" y="840"/>
+      <point x="-336" y="840" type="curve" smooth="yes"/>
+      <point x="-269" y="840"/>
+      <point x="-219" y="792"/>
+      <point x="-131" y="614" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

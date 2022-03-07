@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dAcute" format="2">
+  <unicode hex="0954"/>
+  <outline>
+    <contour>
+      <point x="73" y="888" type="line"/>
+      <point x="-149" y="709" type="line"/>
+      <point x="-118" y="670" type="line"/>
+      <point x="103" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

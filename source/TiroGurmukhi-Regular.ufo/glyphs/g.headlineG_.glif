@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.headlineG" format="2">
+  <advance width="90"/>
+  <note>II followed by C ookar/aikar/ekar</note>
+  <outline>
+    <contour>
+      <point x="135" y="542" type="line"/>
+      <point x="133" y="571"/>
+      <point x="129" y="596"/>
+      <point x="120" y="620" type="curve"/>
+      <point x="-15" y="620" type="line"/>
+      <point x="-15" y="593"/>
+      <point x="-10" y="565"/>
+      <point x="0" y="542" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

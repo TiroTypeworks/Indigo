@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dKTVYa" format="2">
+  <advance width="1487"/>
+  <outline>
+    <component base="dYa" xOffset="905"/>
+    <component base="dV.half" xOffset="575"/>
+    <contour>
+      <point x="464" y="-10" type="line"/>
+      <point x="577" y="581" type="line"/>
+      <point x="493" y="581" type="line"/>
+      <point x="386" y="52" type="line"/>
+      <point x="454" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="717" y="360" type="line"/>
+      <point x="741" y="435" type="line"/>
+      <point x="63" y="435" type="line"/>
+      <point x="61" y="425" type="line"/>
+      <point x="83" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="897" y="545" type="line"/>
+      <point x="899" y="555" type="line"/>
+      <point x="868" y="620" type="line"/>
+      <point x="34" y="620" type="line"/>
+      <point x="32" y="610" type="line"/>
+      <point x="63" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="256" y="-10" type="line"/>
+      <point x="303" y="23" type="line"/>
+      <point x="225" y="126"/>
+      <point x="211" y="180"/>
+      <point x="211" y="235" type="curve" smooth="yes"/>
+      <point x="211" y="300"/>
+      <point x="268" y="360"/>
+      <point x="388" y="360" type="curve"/>
+      <point x="387" y="397" type="line"/>
+      <point x="217" y="397" type="line"/>
+      <point x="152" y="358"/>
+      <point x="143" y="296"/>
+      <point x="143" y="266" type="curve" smooth="yes"/>
+      <point x="143" y="191"/>
+      <point x="185" y="95"/>
+      <point x="246" y="-10" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.879,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

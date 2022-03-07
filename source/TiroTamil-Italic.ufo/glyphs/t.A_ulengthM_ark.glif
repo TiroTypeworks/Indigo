@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.AulengthMark" format="2">
+  <advance width="1120"/>
+  <unicode hex="0BD7"/>
+  <outline>
+    <component base="t.Lla"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.977,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dMBh.half" format="2">
+  <advance width="718"/>
+  <outline>
+    <component base="dBh.half" xOffset="258"/>
+    <component base="dM.half"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

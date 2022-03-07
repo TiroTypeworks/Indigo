@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="DoubleDanda" format="2">
+  <advance width="390"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="259" y="-15" type="line"/>
+      <point x="370" y="558" type="line"/>
+      <point x="320" y="558" type="line"/>
+      <point x="209" y="-15" type="line"/>
+    </contour>
+    <contour>
+      <point x="79" y="-15" type="line"/>
+      <point x="190" y="558" type="line"/>
+      <point x="140" y="558" type="line"/>
+      <point x="29" y="-15" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.874,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dNGLa" format="2">
+  <advance width="1231"/>
+  <outline>
+    <component base="dLa" xOffset="566"/>
+    <contour>
+      <point x="179" y="281" type="curve" smooth="yes"/>
+      <point x="209" y="281"/>
+      <point x="213" y="308"/>
+      <point x="213" y="384" type="curve"/>
+      <point x="450" y="384" type="line"/>
+      <point x="451" y="451" type="line"/>
+      <point x="292" y="455"/>
+      <point x="165" y="457"/>
+      <point x="129" y="457" type="curve" smooth="yes"/>
+      <point x="79" y="457"/>
+      <point x="48" y="453"/>
+      <point x="48" y="417" type="curve" smooth="yes"/>
+      <point x="48" y="358"/>
+      <point x="124" y="281"/>
+    </contour>
+    <contour>
+      <point x="466" y="150" type="curve" smooth="yes"/>
+      <point x="481" y="150"/>
+      <point x="489" y="158"/>
+      <point x="489" y="175" type="curve"/>
+      <point x="487" y="561" type="line"/>
+      <point x="405" y="561" type="line"/>
+      <point x="404" y="320" type="line"/>
+      <point x="343" y="320" type="line" smooth="yes"/>
+      <point x="325" y="320"/>
+      <point x="318" y="309"/>
+      <point x="318" y="297" type="curve" smooth="yes"/>
+      <point x="318" y="243"/>
+      <point x="422" y="150"/>
+    </contour>
+    <contour>
+      <point x="622" y="545" type="line"/>
+      <point x="622" y="620" type="line"/>
+      <point x="-28" y="620" type="line"/>
+      <point x="-28" y="610" type="line"/>
+      <point x="6" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.879,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

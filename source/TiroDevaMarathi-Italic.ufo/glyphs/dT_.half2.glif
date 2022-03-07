@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dT.half2" format="2">
+  <advance width="288"/>
+  <outline>
+    <contour>
+      <point x="445" y="545" type="line"/>
+      <point x="447" y="555" type="line"/>
+      <point x="416" y="620" type="line"/>
+      <point x="34" y="620" type="line"/>
+      <point x="32" y="610" type="line"/>
+      <point x="63" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="362" type="line"/>
+      <point x="339" y="408"/>
+      <point x="285" y="428"/>
+      <point x="225" y="428" type="curve" smooth="yes"/>
+      <point x="107" y="428"/>
+      <point x="53" y="355"/>
+      <point x="53" y="275" type="curve" smooth="yes"/>
+      <point x="53" y="191"/>
+      <point x="100" y="96"/>
+      <point x="162" y="-10" type="curve"/>
+      <point x="172" y="-10" type="line"/>
+      <point x="218" y="22" type="line"/>
+      <point x="151" y="131"/>
+      <point x="120" y="177"/>
+      <point x="120" y="232" type="curve" smooth="yes"/>
+      <point x="120" y="295"/>
+      <point x="160" y="355"/>
+      <point x="259" y="355" type="curve" smooth="yes"/>
+      <point x="301" y="355"/>
+      <point x="343" y="341"/>
+      <point x="393" y="315" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

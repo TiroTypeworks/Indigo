@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.headlineA" format="2">
+  <advance width="106"/>
+  <outline>
+    <contour>
+      <point x="167" y="542" type="line"/>
+      <point x="171" y="571"/>
+      <point x="172" y="596"/>
+      <point x="168" y="620" type="curve"/>
+      <point x="47" y="620" type="line"/>
+      <point x="41" y="593"/>
+      <point x="41" y="565"/>
+      <point x="46" y="542" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>note</key>
+  <string>U/UU followed by ikar</string>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

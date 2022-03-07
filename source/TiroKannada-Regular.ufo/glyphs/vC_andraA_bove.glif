@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vCandraAbove" format="2">
+  <unicode hex="1CF4"/>
+  <outline>
+    <contour>
+      <point x="0" y="635" type="curve" smooth="yes"/>
+      <point x="79" y="635"/>
+      <point x="152" y="688"/>
+      <point x="173" y="819" type="curve"/>
+      <point x="144" y="826" type="line"/>
+      <point x="124" y="756"/>
+      <point x="65" y="722"/>
+      <point x="0" y="722" type="curve" smooth="yes"/>
+      <point x="-65" y="722"/>
+      <point x="-124" y="756"/>
+      <point x="-144" y="826" type="curve"/>
+      <point x="-173" y="819" type="line"/>
+      <point x="-152" y="688"/>
+      <point x="-79" y="635"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.Ra" format="2">
+  <advance width="683"/>
+  <unicode hex="0BB0"/>
+  <outline>
+    <contour>
+      <point x="169" y="0" type="line"/>
+      <point x="169" y="473" type="line"/>
+      <point x="653" y="473" type="line"/>
+      <point x="653" y="522" type="line"/>
+      <point x="105" y="522" type="line"/>
+      <point x="105" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="493" y="0" type="line"/>
+      <point x="493" y="493" type="line"/>
+      <point x="390" y="493" type="line"/>
+      <point x="390" y="0" type="line"/>
+      <point x="112" y="-152" type="line"/>
+      <point x="112" y="-209" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="27.5781" x="0" y="-259"/>
+  <guideline angle="27.5781" x="0" y="-205"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

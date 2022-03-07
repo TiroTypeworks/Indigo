@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.Tha.subalt" format="2">
+  <outline>
+    <contour>
+      <point x="-234" y="-299" type="curve" smooth="yes"/>
+      <point x="-211" y="-299"/>
+      <point x="-180" y="-292"/>
+      <point x="-143" y="-261" type="curve"/>
+      <point x="-143" y="-194" type="line"/>
+      <point x="-179" y="-221"/>
+      <point x="-216" y="-241"/>
+      <point x="-246" y="-241" type="curve" smooth="yes"/>
+      <point x="-269" y="-241"/>
+      <point x="-294" y="-228"/>
+      <point x="-314" y="-211" type="curve"/>
+      <point x="-294" y="-175"/>
+      <point x="-287" y="-133"/>
+      <point x="-287" y="-91" type="curve" smooth="yes"/>
+      <point x="-287" y="-74"/>
+      <point x="-288" y="-56"/>
+      <point x="-290" y="-40" type="curve"/>
+      <point x="-316" y="-38"/>
+      <point x="-342" y="-38"/>
+      <point x="-363" y="-38" type="curve"/>
+      <point x="-360" y="-58"/>
+      <point x="-358" y="-73"/>
+      <point x="-358" y="-87" type="curve" smooth="yes"/>
+      <point x="-358" y="-128"/>
+      <point x="-375" y="-175"/>
+      <point x="-398" y="-211" type="curve"/>
+      <point x="-340" y="-263"/>
+      <point x="-291" y="-299"/>
+    </contour>
+    <contour>
+      <point x="-143" y="-121" type="line"/>
+      <point x="-186" y="-116"/>
+      <point x="-251" y="-116"/>
+      <point x="-312" y="-116" type="curve"/>
+      <point x="-312" y="-170" type="line"/>
+      <point x="-234" y="-170"/>
+      <point x="-189" y="-172"/>
+      <point x="-143" y="-174" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-83" y="-55" type="line"/>
+      <point x="-107" y="-44"/>
+      <point x="-145" y="-40"/>
+      <point x="-163" y="-40" type="curve"/>
+      <point x="-163" y="-304" type="line"/>
+      <point x="-140" y="-315"/>
+      <point x="-107" y="-320"/>
+      <point x="-83" y="-320" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-40"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

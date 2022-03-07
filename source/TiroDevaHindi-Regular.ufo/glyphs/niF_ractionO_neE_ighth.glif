@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="niFractionOneEighth" format="2">
+  <advance width="628"/>
+  <unicode hex="A834"/>
+  <outline>
+    <contour>
+      <point x="588" y="540" type="line"/>
+      <point x="530" y="600" type="line"/>
+      <point x="40" y="499" type="line"/>
+      <point x="40" y="489" type="line"/>
+      <point x="99" y="428" type="line"/>
+      <point x="588" y="530" type="line"/>
+    </contour>
+    <contour>
+      <point x="588" y="331" type="line"/>
+      <point x="530" y="391" type="line"/>
+      <point x="40" y="290" type="line"/>
+      <point x="40" y="280" type="line"/>
+      <point x="99" y="219" type="line"/>
+      <point x="588" y="321" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="305"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

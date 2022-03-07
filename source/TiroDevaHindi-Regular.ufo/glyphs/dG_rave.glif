@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dGrave" format="2">
+  <unicode hex="0953"/>
+  <outline>
+    <contour>
+      <point x="-247" y="852" type="line"/>
+      <point x="-61" y="672" type="line"/>
+      <point x="-27" y="707" type="line"/>
+      <point x="-214" y="886" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.812,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

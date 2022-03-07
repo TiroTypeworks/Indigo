@@ -1,0 +1,7 @@
+/venv
+**/VFC
+**/output
+**/*.backup
+**/*.bak
+**/working
+**/.DS_Store

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dSignUAnudatta" format="2">
+  <outline>
+    <contour>
+      <point x="-201" y="-136" type="line"/>
+      <point x="-179" y="-118"/>
+      <point x="-150" y="-89"/>
+      <point x="-112" y="-89" type="curve" smooth="yes"/>
+      <point x="-85" y="-89"/>
+      <point x="-61" y="-103"/>
+      <point x="-61" y="-135" type="curve" smooth="yes"/>
+      <point x="-61" y="-175"/>
+      <point x="-97" y="-207"/>
+      <point x="-160" y="-207" type="curve" smooth="yes"/>
+      <point x="-233" y="-207"/>
+      <point x="-297" y="-162"/>
+      <point x="-396" y="-36" type="curve"/>
+      <point x="-403" y="-36" type="line"/>
+      <point x="-438" y="-78" type="line"/>
+      <point x="-388" y="-136"/>
+      <point x="-248" y="-274"/>
+      <point x="-126" y="-274" type="curve" smooth="yes"/>
+      <point x="-58" y="-274"/>
+      <point x="-1" y="-231"/>
+      <point x="-1" y="-166" type="curve" smooth="yes"/>
+      <point x="-1" y="-95"/>
+      <point x="-67" y="-29"/>
+      <point x="-147" y="-29" type="curve" smooth="yes"/>
+      <point x="-191" y="-29"/>
+      <point x="-223" y="-47"/>
+      <point x="-254" y="-76" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-387" y="-319" type="line"/>
+      <point x="-387" y="-366" type="line"/>
+      <point x="-43" y="-366" type="line"/>
+      <point x="-43" y="-319" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

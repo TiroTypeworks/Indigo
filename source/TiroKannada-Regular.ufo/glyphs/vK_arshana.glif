@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vKarshana" format="2">
+  <unicode hex="1CD0"/>
+  <outline>
+    <contour>
+      <point x="0" y="811" type="line"/>
+      <point x="146" y="665" type="line"/>
+      <point x="178" y="697" type="line"/>
+      <point x="0" y="875" type="line"/>
+      <point x="-178" y="697" type="line"/>
+      <point x="-146" y="665" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

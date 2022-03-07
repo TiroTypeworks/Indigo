@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="niFractionOneHalf" format="2">
+  <advance width="428"/>
+  <unicode hex="A831"/>
+  <outline>
+    <contour>
+      <point x="333" y="0" type="line"/>
+      <point x="333" y="548" type="line"/>
+      <point x="285" y="548" type="line"/>
+      <point x="285" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="143" y="548" type="line"/>
+      <point x="95" y="548" type="line"/>
+      <point x="95" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

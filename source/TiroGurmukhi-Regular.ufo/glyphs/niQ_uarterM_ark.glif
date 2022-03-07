@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="niQuarterMark" format="2">
+  <advance width="451"/>
+  <unicode hex="A836"/>
+  <outline>
+    <contour>
+      <point x="213" y="187" type="curve" smooth="yes"/>
+      <point x="161" y="187"/>
+      <point x="129" y="223"/>
+      <point x="129" y="277" type="curve" smooth="yes"/>
+      <point x="129" y="345"/>
+      <point x="179" y="390"/>
+      <point x="239" y="390" type="curve" smooth="yes"/>
+      <point x="292" y="390"/>
+      <point x="323" y="354"/>
+      <point x="323" y="301" type="curve" smooth="yes"/>
+      <point x="323" y="232"/>
+      <point x="273" y="187"/>
+    </contour>
+    <contour>
+      <point x="236" y="121" type="curve" smooth="yes"/>
+      <point x="324" y="121"/>
+      <point x="391" y="188"/>
+      <point x="391" y="282" type="curve" smooth="yes"/>
+      <point x="391" y="382"/>
+      <point x="317" y="454"/>
+      <point x="220" y="454" type="curve" smooth="yes"/>
+      <point x="126" y="454"/>
+      <point x="60" y="385"/>
+      <point x="60" y="296" type="curve" smooth="yes"/>
+      <point x="60" y="195"/>
+      <point x="142" y="121"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

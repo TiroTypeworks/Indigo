@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dNSPha" format="2">
+  <advance width="1479"/>
+  <outline>
+    <component base="dN.half"/>
+    <component base="dS.half" xOffset="325"/>
+    <component base="dPha" xOffset="707"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

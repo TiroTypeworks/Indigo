@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.Tta" format="2">
+  <advance width="1000"/>
+  <unicode hex="0B9F"/>
+  <outline>
+    <contour>
+      <point x="978" y="0" type="line"/>
+      <point x="978" y="49" type="line"/>
+      <point x="208" y="49" type="line"/>
+      <point x="208" y="522" type="line"/>
+      <point x="105" y="522" type="line"/>
+      <point x="105" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

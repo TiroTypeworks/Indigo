@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dCandrabinduSpacing" format="2">
+  <advance width="550"/>
+  <unicode hex="A8F2"/>
+  <outline>
+    <contour>
+      <point x="76" y="353" type="line"/>
+      <point x="107" y="259"/>
+      <point x="178" y="198"/>
+      <point x="291" y="198" type="curve" smooth="yes"/>
+      <point x="366" y="198"/>
+      <point x="453" y="227"/>
+      <point x="516" y="326" type="curve"/>
+      <point x="456" y="381" type="line"/>
+      <point x="419" y="327"/>
+      <point x="363" y="263"/>
+      <point x="268" y="263" type="curve" smooth="yes"/>
+      <point x="219" y="263"/>
+      <point x="151" y="282"/>
+      <point x="111" y="371" type="curve"/>
+    </contour>
+    <contour>
+      <point x="298" y="460" type="line"/>
+      <point x="222" y="395" type="line"/>
+      <point x="277" y="329" type="line"/>
+      <point x="353" y="392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

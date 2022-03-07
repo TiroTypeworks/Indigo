@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dAnudatta.W" format="2">
+  <outline>
+    <contour>
+      <point x="-65" y="-135" type="line"/>
+      <point x="-65" y="-89" type="line"/>
+      <point x="-677" y="-89" type="line"/>
+      <point x="-677" y="-135" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

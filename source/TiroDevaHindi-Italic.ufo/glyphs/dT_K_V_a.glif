@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dTKVa" format="2">
+  <advance width="1427"/>
+  <outline>
+    <component base="dT.half2"/>
+    <component base="dK.half" xOffset="280"/>
+    <component base="dVa" xOffset="830"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

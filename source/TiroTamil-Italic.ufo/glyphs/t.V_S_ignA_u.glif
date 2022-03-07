@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.VSignAu" format="2">
+  <advance width="2826"/>
+  <unicode hex="0BCC"/>
+  <outline>
+    <component base="t.VSignE"/>
+    <component base="BASE" xOffset="993"/>
+    <component base="t.Lla" xOffset="1706"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.977,1,1</string>
+  </dict>
+  </lib>
+</glyph>

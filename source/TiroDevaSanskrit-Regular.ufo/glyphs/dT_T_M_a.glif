@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dTTMa" format="2">
+  <advance width="991"/>
+  <outline>
+    <component base="dMa" xOffset="379"/>
+    <contour>
+      <point x="332" y="-10" type="line"/>
+      <point x="375" y="25" type="line"/>
+      <point x="268" y="149"/>
+      <point x="234" y="191"/>
+      <point x="234" y="249" type="curve" smooth="yes"/>
+      <point x="234" y="317"/>
+      <point x="281" y="366"/>
+      <point x="378" y="366" type="curve"/>
+      <point x="378" y="405" type="line"/>
+      <point x="184" y="378" type="line"/>
+      <point x="166" y="359"/>
+      <point x="158" y="327"/>
+      <point x="158" y="299" type="curve" smooth="yes"/>
+      <point x="158" y="211"/>
+      <point x="227" y="114"/>
+      <point x="322" y="-10" type="curve"/>
+    </contour>
+    <contour>
+      <point x="529" y="366" type="line"/>
+      <point x="529" y="441" type="line"/>
+      <point x="27" y="441" type="line"/>
+      <point x="27" y="431" type="line"/>
+      <point x="62" y="366" type="line"/>
+    </contour>
+    <contour>
+      <point x="525" y="545" type="line"/>
+      <point x="525" y="620" type="line"/>
+      <point x="-28" y="620" type="line"/>
+      <point x="-28" y="610" type="line"/>
+      <point x="6" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.879,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

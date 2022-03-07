@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.Ta.subalt" format="2">
+  <outline>
+    <contour>
+      <point x="-320" y="-312" type="curve" smooth="yes"/>
+      <point x="-229" y="-312"/>
+      <point x="-175" y="-274"/>
+      <point x="-175" y="-218" type="curve" smooth="yes"/>
+      <point x="-175" y="-142"/>
+      <point x="-301" y="-90"/>
+      <point x="-359" y="-90" type="curve" smooth="yes"/>
+      <point x="-404" y="-90"/>
+      <point x="-430" y="-110"/>
+      <point x="-430" y="-134" type="curve" smooth="yes"/>
+      <point x="-430" y="-166"/>
+      <point x="-390" y="-183"/>
+      <point x="-347" y="-183" type="curve" smooth="yes"/>
+      <point x="-323" y="-183"/>
+      <point x="-296" y="-178"/>
+      <point x="-274" y="-170" type="curve"/>
+      <point x="-262" y="-176"/>
+      <point x="-254" y="-190"/>
+      <point x="-254" y="-204" type="curve" smooth="yes"/>
+      <point x="-254" y="-237"/>
+      <point x="-295" y="-248"/>
+      <point x="-342" y="-248" type="curve" smooth="yes"/>
+      <point x="-386" y="-248"/>
+      <point x="-429" y="-237"/>
+      <point x="-459" y="-227" type="curve"/>
+      <point x="-463" y="-230" type="line"/>
+      <point x="-448" y="-292"/>
+      <point x="-381" y="-312"/>
+    </contour>
+    <contour>
+      <point x="-235" y="-159" type="line"/>
+      <point x="-179" y="-133"/>
+      <point x="-159" y="-107"/>
+      <point x="-146" y="-58" type="curve"/>
+      <point x="-169" y="-42"/>
+      <point x="-204" y="-38"/>
+      <point x="-226" y="-38" type="curve"/>
+      <point x="-233" y="-83"/>
+      <point x="-243" y="-108"/>
+      <point x="-293" y="-113" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-312"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

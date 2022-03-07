@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vSvarita2" format="2">
+  <unicode hex="1CDA"/>
+  <outline>
+    <contour>
+      <point x="76" y="765" type="line"/>
+      <point x="76" y="1017" type="line"/>
+      <point x="34" y="1017" type="line"/>
+      <point x="34" y="765" type="line"/>
+    </contour>
+    <contour>
+      <point x="-34" y="765" type="line"/>
+      <point x="-34" y="1017" type="line"/>
+      <point x="-76" y="1017" type="line"/>
+      <point x="-76" y="765" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.Ya.post" format="2">
+  <advance width="611"/>
+  <outline>
+    <contour>
+      <point x="206" y="89" type="curve" smooth="yes"/>
+      <point x="245" y="89"/>
+      <point x="261" y="108"/>
+      <point x="280" y="152" type="curve" smooth="yes"/>
+      <point x="305" y="210"/>
+      <point x="336" y="287"/>
+      <point x="352" y="331" type="curve"/>
+      <point x="479" y="331" type="line"/>
+      <point x="493" y="404" type="line"/>
+      <point x="397" y="404"/>
+      <point x="340" y="404"/>
+      <point x="290" y="403" type="curve"/>
+      <point x="268" y="340"/>
+      <point x="220" y="218"/>
+      <point x="207" y="190" type="curve" smooth="yes"/>
+      <point x="199" y="173"/>
+      <point x="192" y="170"/>
+      <point x="183" y="170" type="curve" smooth="yes"/>
+      <point x="154" y="170"/>
+      <point x="60" y="238"/>
+      <point x="15" y="281" type="curve"/>
+      <point x="11" y="262"/>
+      <point x="9" y="245"/>
+      <point x="9" y="229" type="curve" smooth="yes"/>
+      <point x="9" y="217"/>
+      <point x="10" y="206"/>
+      <point x="13" y="196" type="curve"/>
+      <point x="35" y="173"/>
+      <point x="149" y="89"/>
+    </contour>
+    <contour>
+      <point x="590" y="562" type="line"/>
+      <point x="504" y="562" type="line"/>
+      <point x="396" y="10" type="line"/>
+      <point x="418" y="-4"/>
+      <point x="453" y="-12"/>
+      <point x="478" y="-12" type="curve"/>
+    </contour>
+    <contour>
+      <point x="683" y="542" type="line"/>
+      <point x="683" y="569"/>
+      <point x="680" y="596"/>
+      <point x="673" y="620" type="curve"/>
+      <point x="47" y="620" type="line"/>
+      <point x="47" y="594"/>
+      <point x="50" y="567"/>
+      <point x="57" y="542" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

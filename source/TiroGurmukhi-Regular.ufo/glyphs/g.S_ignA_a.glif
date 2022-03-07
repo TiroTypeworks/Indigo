@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.SignAa" format="2">
+  <advance width="238"/>
+  <unicode hex="0A3E"/>
+  <outline>
+    <contour>
+      <point x="160" y="562" type="line"/>
+      <point x="76" y="562" type="line"/>
+      <point x="76" y="280" type="line"/>
+      <point x="100" y="269"/>
+      <point x="140" y="265"/>
+      <point x="160" y="265" type="curve"/>
+    </contour>
+    <contour>
+      <point x="253" y="542" type="line"/>
+      <point x="251" y="571"/>
+      <point x="247" y="596"/>
+      <point x="238" y="620" type="curve"/>
+      <point x="-15" y="620" type="line"/>
+      <point x="-15" y="593"/>
+      <point x="-10" y="565"/>
+      <point x="0" y="542" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

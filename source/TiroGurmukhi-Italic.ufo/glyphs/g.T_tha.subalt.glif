@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g.Ttha.subalt" format="2">
+  <outline>
+    <contour>
+      <point x="-242" y="-45" type="line"/>
+      <point x="-267" y="-35"/>
+      <point x="-296" y="-32"/>
+      <point x="-322" y="-32" type="curve"/>
+      <point x="-332" y="-84" type="line"/>
+      <point x="-250" y="-84" type="line"/>
+    </contour>
+    <contour>
+      <point x="-316" y="-313" type="curve" smooth="yes"/>
+      <point x="-214" y="-313"/>
+      <point x="-147" y="-263"/>
+      <point x="-147" y="-183" type="curve" smooth="yes"/>
+      <point x="-147" y="-106"/>
+      <point x="-213" y="-60"/>
+      <point x="-304" y="-60" type="curve" smooth="yes"/>
+      <point x="-399" y="-60"/>
+      <point x="-480" y="-117"/>
+      <point x="-480" y="-191" type="curve" smooth="yes"/>
+      <point x="-480" y="-264"/>
+      <point x="-405" y="-313"/>
+    </contour>
+    <contour>
+      <point x="-322" y="-247" type="curve" smooth="yes"/>
+      <point x="-371" y="-247"/>
+      <point x="-409" y="-229"/>
+      <point x="-409" y="-192" type="curve" smooth="yes"/>
+      <point x="-409" y="-152"/>
+      <point x="-360" y="-122"/>
+      <point x="-298" y="-122" type="curve" smooth="yes"/>
+      <point x="-254" y="-122"/>
+      <point x="-216" y="-137"/>
+      <point x="-216" y="-177" type="curve" smooth="yes"/>
+      <point x="-216" y="-218"/>
+      <point x="-260" y="-247"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="-309"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

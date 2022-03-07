@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="niFractionOneQuarter" format="2">
+  <advance width="256"/>
+  <unicode hex="A830"/>
+  <outline>
+    <contour>
+      <point x="121" y="-5" type="line"/>
+      <point x="233" y="568" type="line"/>
+      <point x="168" y="628" type="line"/>
+      <point x="158" y="628" type="line"/>
+      <point x="47" y="55" type="line"/>
+      <point x="111" y="-5" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

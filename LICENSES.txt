@@ -1,0 +1,21 @@
+Contents of the Indigo project repo are made available under two 
+different open licenses. The fonts, their sources, and build tools 
+are released under the Open Font License version 1.1. The accompanying 
+documentation, test files, and other resources are released under 
+the Apache License version 2.0. Please refer to the license .txt files 
+in individual folders, or the following details for clarity:
+
+The terms of the Open Font License v1.1 apply to the contents of 
+the following folders and their subfolders:
+\fonts
+\sources
+\tools
+
+The terms of the Apache License v2.0 apply to the contents of 
+the following folders and their subfolders:
+\docs
+\resources
+\tests
+
+The contents of the \third-party folder are NOT licensed for any use 
+outside of the Indigo repo.

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dR.half" format="2">
+  <advance width="309"/>
+  <outline>
+    <contour>
+      <point x="386" y="347" type="line"/>
+      <point x="317" y="312"/>
+      <point x="273" y="300"/>
+      <point x="224" y="300" type="curve" smooth="yes"/>
+      <point x="161" y="300"/>
+      <point x="105" y="320"/>
+      <point x="42" y="364" type="curve"/>
+      <point x="19" y="331" type="line"/>
+      <point x="105" y="256"/>
+      <point x="174" y="223"/>
+      <point x="255" y="223" type="curve" smooth="yes"/>
+      <point x="302" y="223"/>
+      <point x="346" y="234"/>
+      <point x="421" y="271" type="curve"/>
+    </contour>
+    <contour>
+      <point x="409" y="545" type="line"/>
+      <point x="409" y="555" type="line"/>
+      <point x="375" y="620" type="line"/>
+      <point x="-28" y="620" type="line"/>
+      <point x="-28" y="610" type="line"/>
+      <point x="6" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

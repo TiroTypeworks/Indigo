@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t.Au" format="2">
+  <advance width="2124"/>
+  <unicode hex="0B94"/>
+  <outline>
+    <component base="t.Lla" xOffset="1004"/>
+    <component base="t.O"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.977,1,1</string>
+  </dict>
+  </lib>
+</glyph>

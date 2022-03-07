@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dSPRa" format="2">
+  <advance width="941"/>
+  <outline>
+    <component base="dS.half"/>
+    <component base="dPRa" xOffset="372"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>
