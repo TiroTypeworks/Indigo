@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t.VSignAa" format="2">
+<glyph name="t.Ra.alt" format="2">
   <advance width="683"/>
-  <unicode hex="0BBE"/>
   <outline>
     <contour>
       <point x="121" y="0" type="line"/>
@@ -21,7 +20,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

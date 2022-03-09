@@ -34853,7 +34853,7 @@
         "name":"g.headlineA",
         "lastModified":"2022-01-24 20:37:18",
         "lib":{
-          "note":"  <string>U/UU followed by ikar</string>\n"
+          "note":"U/UU followed by ikar"
         },
         "colorFlag":31,
         "layers":[
@@ -34916,7 +34916,7 @@
         "name":"g.headlineB",
         "lastModified":"2022-01-24 20:37:21",
         "lib":{
-          "note":"  <string>U/UU followed by C ookar/aikar/ekar</string>\n"
+          "note":"U/UU followed by C ookar/aikar/ekar"
         },
         "colorFlag":31,
         "layers":[
@@ -34953,7 +34953,7 @@
         "name":"g.headlineC",
         "lastModified":"2022-01-24 20:37:31",
         "lib":{
-          "note":"  <string>OO followed by ikar</string>\n"
+          "note":"OO followed by ikar"
         },
         "colorFlag":31,
         "layers":[
@@ -34990,7 +34990,7 @@
         "name":"g.headlineD",
         "lastModified":"2022-01-24 20:37:34",
         "lib":{
-          "note":"  <string>OO followed by C ookar/aikar/ekar</string>\n"
+          "note":"OO followed by C ookar/aikar/ekar"
         },
         "colorFlag":31,
         "layers":[
@@ -35027,7 +35027,7 @@
         "name":"g.headlineE",
         "lastModified":"2022-01-24 20:37:37",
         "lib":{
-          "note":"  <string>II followed by ikar</string>\n"
+          "note":"II followed by ikar"
         },
         "colorFlag":31,
         "layers":[
@@ -35064,7 +35064,7 @@
         "name":"g.headlineF",
         "lastModified":"2022-01-24 20:37:40",
         "lib":{
-          "note":"  <string>II followed by C ookar/aikar/ekar</string>\n"
+          "note":"II followed by C ookar/aikar/ekar"
         },
         "colorFlag":31,
         "layers":[
@@ -35101,7 +35101,7 @@
         "name":"g.headlineG",
         "lastModified":"2022-01-24 20:37:40",
         "lib":{
-          "note":"  <string>II followed by C ookar/aikar/ekar</string>\n"
+          "note":"II followed by C ookar/aikar/ekar"
         },
         "colorFlag":31,
         "layers":[
@@ -36036,7 +36036,6 @@
         }
       }
     ],
-    "searchStorage":"",
     "expressionsUpdated":true
   }
 }

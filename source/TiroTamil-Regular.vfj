@@ -1,7 +1,7 @@
 {
   "version":8,
   "font":{
-    "glyphsCount":897,
+    "glyphsCount":898,
     "upm":1000,
     "glyphs":[
       {
@@ -2229,7 +2229,7 @@
       {
         "name":"Ccedilla",
         "unicode":"00c7",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -5876,13 +5876,13 @@
       },
       {
         "name":"Y_caroncomb",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:01",
         "openTypeGlyphClass":1,
-        "colorFlag":184,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":184,
+            "colorFlag":241,
             "advanceWidth":620,
             "elements":[
               {
@@ -7151,13 +7151,13 @@
       {
         "name":"m",
         "unicode":"006d",
-        "lastModified":"2021-10-15 21:39:13",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
-        "colorFlag":31,
+        "colorFlag":121,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":896,
             "elements":[
               {
@@ -7229,13 +7229,13 @@
       {
         "name":"n",
         "unicode":"006e",
-        "lastModified":"2021-10-15 21:39:18",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
-        "colorFlag":31,
+        "colorFlag":121,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":603,
             "elements":[
               {
@@ -8574,7 +8574,7 @@
       {
         "name":"ccedilla",
         "unicode":"00e7",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10278,7 +10278,7 @@
       },
       {
         "name":"m_brevecomb",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10308,7 +10308,7 @@
       {
         "name":"mdotaccent",
         "unicode":"1e41",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10337,7 +10337,7 @@
       },
       {
         "name":"m_candrabinducomb",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10367,7 +10367,7 @@
       {
         "name":"mdotbelow",
         "unicode":"1e43",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10397,7 +10397,7 @@
       {
         "name":"ntilde",
         "unicode":"00f1",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10426,7 +10426,7 @@
       },
       {
         "name":"n_brevecomb",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10456,7 +10456,7 @@
       {
         "name":"ndotaccent",
         "unicode":"1e45",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10485,7 +10485,7 @@
       },
       {
         "name":"n_candrabinducomb",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10515,7 +10515,7 @@
       {
         "name":"nmacronbelow",
         "unicode":"1e49",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10545,7 +10545,7 @@
       {
         "name":"ndotbelow",
         "unicode":"1e47",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -10575,7 +10575,7 @@
       {
         "name":"ncommaaccent",
         "unicode":"0146",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -12278,13 +12278,13 @@
       },
       {
         "name":"y_caroncomb",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:01",
         "openTypeGlyphClass":1,
-        "colorFlag":184,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":184,
+            "colorFlag":241,
             "advanceWidth":499,
             "elements":[
               {
@@ -13603,7 +13603,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -14811,7 +14812,7 @@
       },
       {
         "name":"Ccedilla.sc",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -18444,13 +18445,13 @@
       },
       {
         "name":"Y_caroncomb.sc",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:06:56",
         "openTypeGlyphClass":1,
-        "colorFlag":184,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":184,
+            "colorFlag":241,
             "advanceWidth":519,
             "elements":[
               {
@@ -19529,7 +19530,7 @@
       {
         "name":"cedilla",
         "unicode":"00b8",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":1,
         "colorFlag":296,
         "layers":[
@@ -20614,13 +20615,13 @@
       {
         "name":"cedillacomb",
         "unicode":"0327",
-        "lastModified":"2021-10-31 20:19:17",
+        "lastModified":"2022-03-09 20:07:09",
         "openTypeGlyphClass":3,
-        "colorFlag":31,
+        "colorFlag":121,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":0,
             "elements":[
               {
@@ -25565,12 +25566,12 @@
       {
         "name":"divisionslash",
         "unicode":"2215",
-        "lastModified":"2021-10-31 20:21:23",
-        "colorFlag":184,
+        "lastModified":"2022-03-09 20:07:57",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":184,
+            "colorFlag":241,
             "advanceWidth":110,
             "elements":[
               {
@@ -26238,7 +26239,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"one.numr fraction 20\r\nfraction four.dnom -60"
+          "note":"  <string>one.numr fraction 20&#xd;\n  fraction four.dnom -60</string>\n"
         },
         "colorFlag":296,
         "layers":[
@@ -26283,7 +26284,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"one.numr fraction 20\r\nfraction two.dnom -10"
+          "note":"  <string>one.numr fraction 20&#xd;\n  fraction two.dnom -10</string>\n"
         },
         "colorFlag":296,
         "layers":[
@@ -26328,7 +26329,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"three.numr fraction -10\r\nfraction four.dnom -60"
+          "note":"  <string>three.numr fraction -10&#xd;\n  fraction four.dnom -60</string>\n"
         },
         "colorFlag":296,
         "layers":[
@@ -26373,7 +26374,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"zero.numr fraction -25\r\nfraction zero.dnom -25"
+          "note":"  <string>zero.numr fraction -25&#xd;\n  fraction zero.dnom -25</string>\n"
         },
         "colorFlag":296,
         "layers":[
@@ -26418,7 +26419,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"zero.numr fraction -25\r\nfraction zero.dnom -25"
+          "note":"  <string>zero.numr fraction -25&#xd;\n  fraction zero.dnom -25</string>\n"
         },
         "colorFlag":296,
         "layers":[
@@ -26507,12 +26508,12 @@
       {
         "name":"minus",
         "unicode":"2212",
-        "lastModified":"2020-09-05 23:12:52",
-        "colorFlag":31,
+        "lastModified":"2022-03-09 20:07:09",
+        "colorFlag":121,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":581,
             "elements":[
               {
@@ -27572,7 +27573,7 @@
         "unicode":"0964",
         "lastModified":"2020-09-05 23:12:52",
         "lib":{
-          "note":"LSB +245"
+          "note":"  <string>LSB +245</string>\n"
         },
         "colorFlag":42,
         "layers":[
@@ -27614,7 +27615,7 @@
         "unicode":"0965",
         "lastModified":"2020-09-05 23:12:52",
         "lib":{
-          "note":"LSB +245"
+          "note":"  <string>LSB +245</string>\n"
         },
         "colorFlag":42,
         "layers":[
@@ -28386,13 +28387,13 @@
       {
         "name":"t.Au",
         "unicode":"0b94",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:08:06",
         "openTypeGlyphClass":1,
-        "colorFlag":198,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":198,
+            "colorFlag":241,
             "advanceWidth":2124,
             "elements":[
               {
@@ -29174,6 +29175,27 @@
               {
                 "center":"0 -205",
                 "vector":"100 52.23"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name":"t.Ra.alt",
+        "lastModified":"2022-03-09 19:51:22",
+        "colorFlag":181,
+        "layers":[
+          {
+            "name":"Regular",
+            "colorFlag":181,
+            "advanceWidth":683,
+            "elements":[
+              {
+                "component":{
+                  "glyphName":"t.VSignAa"
+                },
+                "locked":true,
+                "active":true
               }
             ]
           }
@@ -30169,13 +30191,13 @@
       {
         "name":"t.VSignO",
         "unicode":"0bca",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:08:06",
         "openTypeGlyphClass":1,
-        "colorFlag":198,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":198,
+            "colorFlag":241,
             "advanceWidth":2388,
             "elements":[
               {
@@ -30290,7 +30312,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               },
               {
                 "component":{
@@ -30312,13 +30335,13 @@
       {
         "name":"t.VSignOo",
         "unicode":"0bcb",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:08:06",
         "openTypeGlyphClass":1,
-        "colorFlag":198,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":198,
+            "colorFlag":241,
             "advanceWidth":2244,
             "elements":[
               {
@@ -30455,13 +30478,13 @@
       {
         "name":"t.VSignAu",
         "unicode":"0bcc",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:08:06",
         "openTypeGlyphClass":1,
-        "colorFlag":198,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":198,
+            "colorFlag":241,
             "advanceWidth":2826,
             "elements":[
               {
@@ -30576,7 +30599,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               },
               {
                 "component":{
@@ -30598,13 +30622,13 @@
       {
         "name":"t.AulengthMark",
         "unicode":"0bd7",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:08:06",
         "openTypeGlyphClass":1,
-        "colorFlag":198,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":198,
+            "colorFlag":241,
             "advanceWidth":1120,
             "elements":[
               {
@@ -36560,13 +36584,13 @@
       {
         "name":"t.One",
         "unicode":"0be7",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:08:06",
         "openTypeGlyphClass":1,
-        "colorFlag":198,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":198,
+            "colorFlag":241,
             "advanceWidth":847,
             "elements":[
               {
@@ -36874,13 +36898,13 @@
       {
         "name":"t.Seven",
         "unicode":"0bed",
-        "lastModified":"2021-10-31 20:21:23",
+        "lastModified":"2022-03-09 20:08:06",
         "openTypeGlyphClass":1,
-        "colorFlag":198,
+        "colorFlag":241,
         "layers":[
           {
             "name":"Regular",
-            "colorFlag":198,
+            "colorFlag":241,
             "advanceWidth":909,
             "elements":[
               {

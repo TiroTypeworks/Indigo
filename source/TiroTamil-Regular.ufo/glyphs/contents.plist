@@ -1546,6 +1546,8 @@
   <string>t.P_uu.glif</string>
   <key>t.Ra</key>
   <string>t.R_a.glif</string>
+  <key>t.Ra.alt</key>
+  <string>t.R_a.alt.glif</string>
   <key>t.Rra</key>
   <string>t.R_ra.glif</string>
   <key>t.Rraa</key>
