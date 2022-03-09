@@ -26239,7 +26239,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"  <string>one.numr fraction 20&#xd;\n  fraction four.dnom -60</string>\n"
+          "note":"one.numr fraction 20\r\nfraction four.dnom -60"
         },
         "colorFlag":296,
         "layers":[
@@ -26284,7 +26284,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"  <string>one.numr fraction 20&#xd;\n  fraction two.dnom -10</string>\n"
+          "note":"one.numr fraction 20\r\nfraction two.dnom -10"
         },
         "colorFlag":296,
         "layers":[
@@ -26329,7 +26329,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"  <string>three.numr fraction -10&#xd;\n  fraction four.dnom -60</string>\n"
+          "note":"three.numr fraction -10\r\nfraction four.dnom -60"
         },
         "colorFlag":296,
         "layers":[
@@ -26374,7 +26374,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"  <string>zero.numr fraction -25&#xd;\n  fraction zero.dnom -25</string>\n"
+          "note":"zero.numr fraction -25\r\nfraction zero.dnom -25"
         },
         "colorFlag":296,
         "layers":[
@@ -26419,7 +26419,7 @@
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"  <string>zero.numr fraction -25&#xd;\n  fraction zero.dnom -25</string>\n"
+          "note":"zero.numr fraction -25\r\nfraction zero.dnom -25"
         },
         "colorFlag":296,
         "layers":[
@@ -27573,7 +27573,7 @@
         "unicode":"0964",
         "lastModified":"2020-09-05 23:12:52",
         "lib":{
-          "note":"  <string>LSB +245</string>\n"
+          "note":"LSB +245"
         },
         "colorFlag":42,
         "layers":[
@@ -27615,7 +27615,7 @@
         "unicode":"0965",
         "lastModified":"2020-09-05 23:12:52",
         "lib":{
-          "note":"  <string>LSB +245</string>\n"
+          "note":"LSB +245"
         },
         "colorFlag":42,
         "layers":[
@@ -29192,7 +29192,7 @@
             "elements":[
               {
                 "component":{
-                  "glyphName":"t.VSignAa"
+                  "glyphName":"t.SignAa"
                 },
                 "locked":true,
                 "active":true
@@ -29746,9 +29746,9 @@
         ]
       },
       {
-        "name":"t.VSignAa",
+        "name":"t.SignAa",
         "unicode":"0bbe",
-        "lastModified":"2020-09-05 15:12:52",
+        "lastModified":"2022-03-09 22:30:07",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -29779,16 +29779,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignI",
+        "name":"t.SignI",
         "unicode":"0bbf",
-        "lastModified":"2020-09-05 23:12:52",
+        "lastModified":"2022-03-09 22:30:13",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -29816,16 +29817,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignIi",
+        "name":"t.SignIi",
         "unicode":"0bc0",
-        "lastModified":"2020-09-05 23:12:52",
+        "lastModified":"2022-03-09 22:30:18",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -29858,16 +29860,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignU",
+        "name":"t.SignU",
         "unicode":"0bc1",
-        "lastModified":"2020-09-05 23:12:52",
+        "lastModified":"2022-03-09 22:30:23",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -29897,15 +29900,16 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignU.alt",
-        "lastModified":"2020-09-05 23:12:52",
+        "name":"t.SignU.alt",
+        "lastModified":"2022-03-09 22:30:27",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -29935,16 +29939,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignUu",
+        "name":"t.SignUu",
         "unicode":"0bc2",
-        "lastModified":"2020-09-05 23:12:52",
+        "lastModified":"2022-03-09 22:30:37",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -29981,15 +29986,16 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignUu.alt",
-        "lastModified":"2020-09-05 23:12:52",
+        "name":"t.SignUu.alt",
+        "lastModified":"2022-03-09 22:30:44",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30027,16 +30033,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignE",
+        "name":"t.SignE",
         "unicode":"0bc6",
-        "lastModified":"2020-09-05 15:12:52",
+        "lastModified":"2022-03-09 22:30:52",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30073,16 +30080,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignEe",
+        "name":"t.SignEe",
         "unicode":"0bc7",
-        "lastModified":"2020-09-05 15:12:52",
+        "lastModified":"2022-03-09 22:30:57",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30122,7 +30130,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "guidelines":[
@@ -30134,9 +30143,9 @@
         ]
       },
       {
-        "name":"t.VSignAi",
+        "name":"t.SignAi",
         "unicode":"0bc8",
-        "lastModified":"2020-09-05 23:12:52",
+        "lastModified":"2022-03-09 22:31:04",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30182,16 +30191,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignO",
+        "name":"t.SignO",
         "unicode":"0bca",
-        "lastModified":"2022-03-09 20:08:06",
+        "lastModified":"2022-03-09 22:31:08",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -30317,12 +30327,12 @@
               },
               {
                 "component":{
-                  "glyphName":"t.VSignE"
+                  "glyphName":"t.SignE"
                 }
               },
               {
                 "component":{
-                  "glyphName":"t.VSignAa"
+                  "glyphName":"t.SignAa"
                 },
                 "transform":{
                   "xOffset":1705
@@ -30333,9 +30343,9 @@
         ]
       },
       {
-        "name":"t.VSignOo",
+        "name":"t.SignOo",
         "unicode":"0bcb",
-        "lastModified":"2022-03-09 20:08:06",
+        "lastModified":"2022-03-09 22:31:12",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -30456,16 +30466,17 @@
                       ]
                     }
                   ]
+                },
+                "active":true
+              },
+              {
+                "component":{
+                  "glyphName":"t.SignEe"
                 }
               },
               {
                 "component":{
-                  "glyphName":"t.VSignEe"
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"t.VSignAa"
+                  "glyphName":"t.SignAa"
                 },
                 "transform":{
                   "xOffset":1561
@@ -30476,9 +30487,9 @@
         ]
       },
       {
-        "name":"t.VSignAu",
+        "name":"t.SignAu",
         "unicode":"0bcc",
-        "lastModified":"2022-03-09 20:08:06",
+        "lastModified":"2022-03-09 22:31:16",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -30604,7 +30615,7 @@
               },
               {
                 "component":{
-                  "glyphName":"t.VSignE"
+                  "glyphName":"t.SignE"
                 }
               },
               {
@@ -37212,7 +37223,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }

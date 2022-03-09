@@ -2,7 +2,7 @@
 <glyph name="t.Ra.alt" format="2">
   <advance width="683"/>
   <outline>
-    <component base="t.VSignAa"/>
+    <component base="t.SignAa"/>
   </outline>
   <lib>
   <dict>

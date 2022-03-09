@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t.VSignAu" format="2">
+<glyph name="t.SignAu" format="2">
   <advance width="2826"/>
   <unicode hex="0BCC"/>
   <outline>
-    <component base="t.VSignE"/>
+    <component base="t.SignE"/>
     <component base="t.Lla" xOffset="1706"/>
     <contour>
       <point x="1022" y="309" type="curve" smooth="yes"/>

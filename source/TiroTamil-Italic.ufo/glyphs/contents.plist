@@ -1578,6 +1578,32 @@
   <string>t.S_ha.glif</string>
   <key>t.Si</key>
   <string>t.S_i.glif</string>
+  <key>t.SignAa</key>
+  <string>t.S_ignA_a.glif</string>
+  <key>t.SignAi</key>
+  <string>t.S_ignA_i.glif</string>
+  <key>t.SignAu</key>
+  <string>t.S_ignA_u.glif</string>
+  <key>t.SignE</key>
+  <string>t.S_ignE_.glif</string>
+  <key>t.SignEe</key>
+  <string>t.S_ignE_e.glif</string>
+  <key>t.SignI</key>
+  <string>t.S_ignI_.glif</string>
+  <key>t.SignIi</key>
+  <string>t.S_ignI_i.glif</string>
+  <key>t.SignO</key>
+  <string>t.S_ignO_.glif</string>
+  <key>t.SignOo</key>
+  <string>t.S_ignO_o.glif</string>
+  <key>t.SignU</key>
+  <string>t.S_ignU_.glif</string>
+  <key>t.SignU.alt</key>
+  <string>t.S_ignU_.alt.glif</string>
+  <key>t.SignUu</key>
+  <string>t.S_ignU_u.glif</string>
+  <key>t.SignUu.alt</key>
+  <string>t.S_ignU_u.alt.glif</string>
   <key>t.Sii</key>
   <string>t.S_ii.glif</string>
   <key>t.Six</key>
@@ -1626,32 +1652,6 @@
   <string>t.U_.glif</string>
   <key>t.Uu</key>
   <string>t.U_u.glif</string>
-  <key>t.VSignAa</key>
-  <string>t.V_S_ignA_a.glif</string>
-  <key>t.VSignAi</key>
-  <string>t.V_S_ignA_i.glif</string>
-  <key>t.VSignAu</key>
-  <string>t.V_S_ignA_u.glif</string>
-  <key>t.VSignE</key>
-  <string>t.V_S_ignE_.glif</string>
-  <key>t.VSignEe</key>
-  <string>t.V_S_ignE_e.glif</string>
-  <key>t.VSignI</key>
-  <string>t.V_S_ignI_.glif</string>
-  <key>t.VSignIi</key>
-  <string>t.V_S_ignI_i.glif</string>
-  <key>t.VSignO</key>
-  <string>t.V_S_ignO_.glif</string>
-  <key>t.VSignOo</key>
-  <string>t.V_S_ignO_o.glif</string>
-  <key>t.VSignU</key>
-  <string>t.V_S_ignU_.glif</string>
-  <key>t.VSignU.alt</key>
-  <string>t.V_S_ignU_.alt.glif</string>
-  <key>t.VSignUu</key>
-  <string>t.V_S_ignU_u.glif</string>
-  <key>t.VSignUu.alt</key>
-  <string>t.V_S_ignU_u.alt.glif</string>
   <key>t.Va</key>
   <string>t.V_a.glif</string>
   <key>t.Vi</key>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t.VSignO" format="2">
+<glyph name="t.SignO" format="2">
   <advance width="2388"/>
   <unicode hex="0BCA"/>
   <outline>
-    <component base="t.VSignE"/>
+    <component base="t.SignE"/>
     <component base="BASE" xOffset="992"/>
-    <component base="t.VSignAa" xOffset="1705"/>
+    <component base="t.SignAa" xOffset="1705"/>
   </outline>
   <lib>
   <dict>

@@ -28137,7 +28137,7 @@
         "lastModified":"2022-03-09 20:07:26",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"  <string>LSB +245</string>\n"
+          "note":"LSB +245"
         },
         "colorFlag":42,
         "layers":[
@@ -28180,7 +28180,7 @@
         "lastModified":"2022-03-09 20:07:26",
         "openTypeGlyphClass":1,
         "lib":{
-          "note":"  <string>LSB +245</string>\n"
+          "note":"LSB +245"
         },
         "colorFlag":42,
         "layers":[
@@ -28935,7 +28935,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -29738,7 +29739,7 @@
             "elements":[
               {
                 "component":{
-                  "glyphName":"t.VSignAa",
+                  "glyphName":"t.SignAa",
                   "layerName":"Italic"
                 },
                 "locked":true
@@ -29791,7 +29792,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -30297,9 +30299,9 @@
         ]
       },
       {
-        "name":"t.VSignAa",
+        "name":"t.SignAa",
         "unicode":"0bbe",
-        "lastModified":"2022-03-09 20:07:26",
+        "lastModified":"2022-03-09 22:31:43",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30338,9 +30340,9 @@
         ]
       },
       {
-        "name":"t.VSignI",
+        "name":"t.SignI",
         "unicode":"0bbf",
-        "lastModified":"2022-03-09 20:07:26",
+        "lastModified":"2022-03-09 22:31:47",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30368,16 +30370,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignIi",
+        "name":"t.SignIi",
         "unicode":"0bc0",
-        "lastModified":"2022-03-09 20:07:26",
+        "lastModified":"2022-03-09 22:31:50",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30410,16 +30413,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignU",
+        "name":"t.SignU",
         "unicode":"0bc1",
-        "lastModified":"2022-03-09 20:07:26",
+        "lastModified":"2022-03-09 22:31:54",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30451,15 +30455,16 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignU.alt",
-        "lastModified":"2022-03-09 20:07:26",
+        "name":"t.SignU.alt",
+        "lastModified":"2022-03-09 22:31:57",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30491,16 +30496,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignUu",
+        "name":"t.SignUu",
         "unicode":"0bc2",
-        "lastModified":"2022-03-09 20:07:26",
+        "lastModified":"2022-03-09 22:32:07",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30542,15 +30548,16 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignUu.alt",
-        "lastModified":"2022-03-09 20:07:26",
+        "name":"t.SignUu.alt",
+        "lastModified":"2022-03-09 22:32:12",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30592,16 +30599,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignE",
+        "name":"t.SignE",
         "unicode":"0bc6",
-        "lastModified":"2022-03-09 20:07:26",
+        "lastModified":"2022-03-09 22:32:18",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30638,16 +30646,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignEe",
+        "name":"t.SignEe",
         "unicode":"0bc7",
-        "lastModified":"2022-03-09 20:07:26",
+        "lastModified":"2022-03-09 22:32:22",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30687,7 +30696,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "guidelines":[
@@ -30699,9 +30709,9 @@
         ]
       },
       {
-        "name":"t.VSignAi",
+        "name":"t.SignAi",
         "unicode":"0bc8",
-        "lastModified":"2022-03-09 20:07:26",
+        "lastModified":"2022-03-09 22:32:27",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -30747,16 +30757,17 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
         ]
       },
       {
-        "name":"t.VSignO",
+        "name":"t.SignO",
         "unicode":"0bca",
-        "lastModified":"2022-03-09 20:08:14",
+        "lastModified":"2022-03-09 22:32:31",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -30767,7 +30778,7 @@
             "elements":[
               {
                 "component":{
-                  "glyphName":"t.VSignE"
+                  "glyphName":"t.SignE"
                 }
               },
               {
@@ -30780,7 +30791,7 @@
               },
               {
                 "component":{
-                  "glyphName":"t.VSignAa"
+                  "glyphName":"t.SignAa"
                 },
                 "transform":{
                   "xOffset":1705
@@ -30791,9 +30802,9 @@
         ]
       },
       {
-        "name":"t.VSignOo",
+        "name":"t.SignOo",
         "unicode":"0bcb",
-        "lastModified":"2022-03-09 20:08:14",
+        "lastModified":"2022-03-09 22:32:37",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -30804,7 +30815,7 @@
             "elements":[
               {
                 "component":{
-                  "glyphName":"t.VSignEe"
+                  "glyphName":"t.SignEe"
                 }
               },
               {
@@ -30817,7 +30828,7 @@
               },
               {
                 "component":{
-                  "glyphName":"t.VSignAa"
+                  "glyphName":"t.SignAa"
                 },
                 "transform":{
                   "xOffset":1561
@@ -30828,9 +30839,9 @@
         ]
       },
       {
-        "name":"t.VSignAu",
+        "name":"t.SignAu",
         "unicode":"0bcc",
-        "lastModified":"2022-03-09 20:08:14",
+        "lastModified":"2022-03-09 22:32:43",
         "openTypeGlyphClass":1,
         "colorFlag":241,
         "layers":[
@@ -30841,7 +30852,7 @@
             "elements":[
               {
                 "component":{
-                  "glyphName":"t.VSignE"
+                  "glyphName":"t.SignE"
                 }
               },
               {
@@ -32533,7 +32544,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -39206,7 +39218,6 @@
         }
       }
     ],
-    "searchStorage":"",
     "expressionsUpdated":true
   }
 }

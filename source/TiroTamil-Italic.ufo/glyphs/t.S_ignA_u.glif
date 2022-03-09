@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="t.VSignAu" format="2">
+<glyph name="t.SignAu" format="2">
   <advance width="2826"/>
   <unicode hex="0BCC"/>
   <outline>
-    <component base="t.VSignE"/>
+    <component base="t.SignE"/>
     <component base="BASE" xOffset="993"/>
     <component base="t.Lla" xOffset="1706"/>
   </outline>

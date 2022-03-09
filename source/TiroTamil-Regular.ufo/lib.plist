@@ -990,19 +990,19 @@
     <string>t.Ssa</string>
     <string>t.Sa</string>
     <string>t.Ha</string>
-    <string>t.VSignAa</string>
-    <string>t.VSignI</string>
-    <string>t.VSignIi</string>
-    <string>t.VSignU</string>
-    <string>t.VSignU.alt</string>
-    <string>t.VSignUu</string>
-    <string>t.VSignUu.alt</string>
-    <string>t.VSignE</string>
-    <string>t.VSignEe</string>
-    <string>t.VSignAi</string>
-    <string>t.VSignO</string>
-    <string>t.VSignOo</string>
-    <string>t.VSignAu</string>
+    <string>t.SignAa</string>
+    <string>t.SignI</string>
+    <string>t.SignIi</string>
+    <string>t.SignU</string>
+    <string>t.SignU.alt</string>
+    <string>t.SignUu</string>
+    <string>t.SignUu.alt</string>
+    <string>t.SignE</string>
+    <string>t.SignEe</string>
+    <string>t.SignAi</string>
+    <string>t.SignO</string>
+    <string>t.SignOo</string>
+    <string>t.SignAu</string>
     <string>t.AulengthMark</string>
     <string>t.Virama</string>
     <string>t.Anusvara</string>
