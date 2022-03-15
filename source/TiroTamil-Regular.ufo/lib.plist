@@ -969,23 +969,23 @@
     <string>t.Ka</string>
     <string>t.Nga</string>
     <string>t.Ca</string>
-    <string>t.Ja</string>
     <string>t.Nya</string>
     <string>t.Tta</string>
     <string>t.Nna</string>
     <string>t.Ta</string>
     <string>t.Na</string>
-    <string>t.Nnna</string>
     <string>t.Pa</string>
     <string>t.Ma</string>
     <string>t.Ya</string>
     <string>t.Ra</string>
     <string>t.Ra.alt</string>
-    <string>t.Rra</string>
     <string>t.La</string>
-    <string>t.Lla</string>
-    <string>t.Llla</string>
     <string>t.Va</string>
+    <string>t.Llla</string>
+    <string>t.Lla</string>
+    <string>t.Rra</string>
+    <string>t.Nnna</string>
+    <string>t.Ja</string>
     <string>t.Sha</string>
     <string>t.Ssa</string>
     <string>t.Sa</string>
@@ -1041,10 +1041,6 @@
     <string>t.Tuu</string>
     <string>t.Nu</string>
     <string>t.Nuu</string>
-    <string>t.Nnnaa</string>
-    <string>t.Nnnu</string>
-    <string>t.Nnnuu</string>
-    <string>t.Nnnai</string>
     <string>t.Pi</string>
     <string>t.Pii</string>
     <string>t.Pu</string>
@@ -1059,36 +1055,40 @@
     <string>t.Yuu</string>
     <string>t.Ru</string>
     <string>t.Ruu</string>
-    <string>t.Rraa</string>
-    <string>t.Rri</string>
-    <string>t.Rrii</string>
-    <string>t.Rru</string>
-    <string>t.Rruu</string>
     <string>t.Li</string>
     <string>t.Lii</string>
     <string>t.Lu</string>
     <string>t.Luu</string>
     <string>t.Lai</string>
-    <string>t.Llu</string>
-    <string>t.Lluu</string>
-    <string>t.Llai</string>
-    <string>t.Llli</string>
-    <string>t.Lllii</string>
-    <string>t.Lllu</string>
-    <string>t.Llluu</string>
     <string>t.Vi</string>
     <string>t.Vii</string>
     <string>t.Vu</string>
     <string>t.Vuu</string>
+    <string>t.Llli</string>
+    <string>t.Lllii</string>
+    <string>t.Lllu</string>
+    <string>t.Llluu</string>
+    <string>t.Llu</string>
+    <string>t.Lluu</string>
+    <string>t.Llai</string>
+    <string>t.Rraa</string>
+    <string>t.Rri</string>
+    <string>t.Rrii</string>
+    <string>t.Rru</string>
+    <string>t.Rruu</string>
+    <string>t.Nnnaa</string>
+    <string>t.Nnnu</string>
+    <string>t.Nnnuu</string>
+    <string>t.Nnnai</string>
     <string>t.Ji</string>
     <string>t.Jii</string>
     <string>t.Ssi</string>
     <string>t.Ssii</string>
     <string>t.Si</string>
     <string>t.Sii</string>
+    <string>t.SRii</string>
     <string>t.Hi</string>
     <string>t.Hii</string>
-    <string>t.ShRii</string>
     <string>t.Zero</string>
     <string>t.One</string>
     <string>t.Two</string>
@@ -1119,7 +1119,7 @@
     <string>t.Year</string>
     <string>t.Debit</string>
     <string>t.Credit</string>
-    <string>t.As</string>
+    <string>t.AsAbove</string>
     <string>t.Rupee</string>
     <string>t.Om</string>
     <string>flowerpunc</string>

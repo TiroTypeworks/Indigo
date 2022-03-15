@@ -1360,8 +1360,8 @@
   <string>t.A_i.glif</string>
   <key>t.Anusvara</key>
   <string>t.A_nusvara.glif</string>
-  <key>t.As</key>
-  <string>t.A_s.glif</string>
+  <key>t.AsAbove</key>
+  <string>t.A_sA_bove.glif</string>
   <key>t.Au</key>
   <string>t.A_u.glif</string>
   <key>t.AulengthMark</key>
@@ -1566,14 +1566,14 @@
   <string>t.R_upee.glif</string>
   <key>t.Ruu</key>
   <string>t.R_uu.glif</string>
+  <key>t.SRii</key>
+  <string>t.S_R_ii.glif</string>
   <key>t.Sa</key>
   <string>t.S_a.glif</string>
   <key>t.Seven</key>
   <string>t.S_even.glif</string>
   <key>t.Seven.sups</key>
   <string>t.S_even.sups.glif</string>
-  <key>t.ShRii</key>
-  <string>t.S_hR_ii.glif</string>
   <key>t.Sha</key>
   <string>t.S_ha.glif</string>
   <key>t.Si</key>
