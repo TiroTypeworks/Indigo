@@ -1566,14 +1566,14 @@
   <string>t.R_upee.glif</string>
   <key>t.Ruu</key>
   <string>t.R_uu.glif</string>
-  <key>t.SRii</key>
-  <string>t.S_R_ii.glif</string>
   <key>t.Sa</key>
   <string>t.S_a.glif</string>
   <key>t.Seven</key>
   <string>t.S_even.glif</string>
   <key>t.Seven.sups</key>
   <string>t.S_even.sups.glif</string>
+  <key>t.ShRii</key>
+  <string>t.S_hR_ii.glif</string>
   <key>t.Sha</key>
   <string>t.S_ha.glif</string>
   <key>t.Si</key>
