@@ -1,0 +1,2 @@
+DEF_GROUP "ta.marks_all" ENUM GLYPH "t.Virama" GLYPH "t.Anusvara" GLYPH "t.SignIi" GLYPH "dUdatta" GLYPH "dAnudatta" GLYPH "grBinduBelow" END_ENUMEND_GROUP
+END

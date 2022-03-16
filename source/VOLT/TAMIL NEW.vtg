@@ -1,0 +1,2 @@
+DEF_GROUP "ta.marks_ii_virama" ENUM GLYPH "t.SignIi" GLYPH "t.Virama" END_ENUMEND_GROUPDEF_GROUP "ta.sups" ENUM GLYPH "t.Zero.sups" GLYPH "t.One.sups" GLYPH "t.Two.sups" GLYPH "t.Three.sups" GLYPH "t.Four.sups" GLYPH "t.Five.sups" GLYPH "t.Six.sups" GLYPH "t.Seven.sups" GLYPH "t.Eight.sups" GLYPH "t.Nine.sups" GLYPH "t.Ten.sups" END_ENUMEND_GROUP
+END
