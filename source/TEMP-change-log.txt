@@ -1,0 +1,27 @@
+Tiro Indic fonts v1.60 CHANGE LOG
+
+
+ALL FONTS
+Changed vertical metrics model to avoid MS Word abd Libre Office clipping bugs reported in
+https://github.com/TiroTypeworks/Indigo/issues/16
+https://github.com/TiroTypeworks/Indigo/issues/17
+The OS/2 sTypoAscender and sTypoDescender and corresponding hhea table ascender and descender values are now matched to the OS/2 usWinAscent and usWinDescent, and the OS/2 sTypoLineGap and hhea lineGap values are set to zero.
+
+I hate doing this. It undermines the whole purpose of having separate OS/2 metrics sets for linespacing and for clipping. It renders the OS/2 and hhea linegap fields useless. But apparently giving text processing engineers a dedicated fsSelection bit to tell them to use sTypo metrics for linespacing doesnt stop them from exchanging one stupid mistake for another. So now, instead of erroneously using OS/2 usWin metrics for linespacing, they are erroneously using sTypo metrics for clipping.
+
+
+BANGLA FONTS
+1. Added glyphs
+/vArdhavisarga #U+1CF2
+/dAvagrahacomb #U+A8F1
+/bRa_bSignVocalicR #reph over full vowel ligature
+/bRa_bSignVocalicL #reph over full vowel ligature
+/bRa_bSignVocalicRr #reph over full vowel ligature
+/bRa_bSignVocalicLl #reph over full vowel ligature
+/bKSsNna.alt #Nna form ligature
+/bHNna.alt #Nna form ligature
+
+2. Added GSUB and GPOS for new glyphs to VOLT project.
+
+
+
