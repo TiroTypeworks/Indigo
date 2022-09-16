@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dAvagrahacomb" format="2">
+  <unicode hex="A8F1"/>
+  <outline>
+    <contour>
+      <point x="94" y="919" type="line"/>
+      <point x="63" y="960" type="line"/>
+      <point x="50" y="962"/>
+      <point x="36" y="964"/>
+      <point x="18" y="964" type="curve" smooth="yes"/>
+      <point x="-25" y="964"/>
+      <point x="-84" y="953"/>
+      <point x="-84" y="897" type="curve" smooth="yes"/>
+      <point x="-84" y="857"/>
+      <point x="-53" y="834"/>
+      <point x="-24" y="815" type="curve" smooth="yes"/>
+      <point x="8" y="794"/>
+      <point x="26" y="783"/>
+      <point x="26" y="761" type="curve" smooth="yes"/>
+      <point x="26" y="737"/>
+      <point x="5" y="715"/>
+      <point x="-27" y="715" type="curve" smooth="yes"/>
+      <point x="-67" y="715"/>
+      <point x="-94" y="748"/>
+      <point x="-114" y="777" type="curve"/>
+      <point x="-119" y="777" type="line"/>
+      <point x="-116" y="743" type="line"/>
+      <point x="-96" y="708"/>
+      <point x="-58" y="669"/>
+      <point x="-10" y="669" type="curve" smooth="yes"/>
+      <point x="35" y="669"/>
+      <point x="68" y="703"/>
+      <point x="68" y="747" type="curve" smooth="yes"/>
+      <point x="68" y="789"/>
+      <point x="37" y="813"/>
+      <point x="9" y="833" type="curve" smooth="yes"/>
+      <point x="-24" y="856"/>
+      <point x="-38" y="864"/>
+      <point x="-38" y="884" type="curve" smooth="yes"/>
+      <point x="-38" y="915"/>
+      <point x="0" y="919"/>
+      <point x="28" y="919" type="curve" smooth="yes"/>
+      <point x="47" y="919"/>
+      <point x="71" y="917"/>
+      <point x="93" y="914" type="curve"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="81" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.801,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
