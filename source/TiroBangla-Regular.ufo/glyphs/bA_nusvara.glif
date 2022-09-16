@@ -46,9 +46,9 @@
   <lib>
   <dict>
   <key>note</key>
-  <integer>+388</integer>
+  <integer>388</integer>
   <key>public.markColor</key>
-  <string>0.651,1,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>
