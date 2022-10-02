@@ -26930,9 +26930,6 @@
         "unicode":"00bc",
         "lastModified":"2022-09-09 14:27:17",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <string>one.numr fraction 20&#xd;\n  fraction four.dnom -60</string>\n"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -26976,9 +26973,6 @@
         "unicode":"00bd",
         "lastModified":"2022-09-09 14:27:17",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <string>one.numr fraction 20&#xd;\n  fraction two.dnom -10</string>\n"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -27022,9 +27016,6 @@
         "unicode":"00be",
         "lastModified":"2022-09-09 14:27:17",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <string>three.numr fraction -10&#xd;\n  fraction four.dnom -60</string>\n"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -27068,9 +27059,6 @@
         "unicode":"0025",
         "lastModified":"2022-09-09 14:27:17",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <string>zero.numr fraction -25&#xd;\n  fraction zero.dnom -25</string>\n"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -27114,9 +27102,6 @@
         "unicode":"2030",
         "lastModified":"2022-09-09 14:27:17",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <string>zero.numr fraction -25&#xd;\n  fraction zero.dnom -25</string>\n"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -28302,9 +28287,6 @@
         "unicode":"0964",
         "lastModified":"2020-09-05 23:04:07",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <string>LSB +255</string>\n"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -28342,9 +28324,6 @@
         "unicode":"0965",
         "lastModified":"2020-09-05 23:04:07",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <string>LSB +255</string>\n"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -34248,9 +34227,6 @@
         "unicode":"0982",
         "lastModified":"2020-09-05 23:04:07",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <integer>388</integer>\n"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -34306,9 +34282,6 @@
         "unicode":"09fc",
         "lastModified":"2020-09-05 23:04:07",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <integer>656</integer>\n"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -34369,9 +34342,6 @@
         "name":"bAnusvaraVedic.alt",
         "lastModified":"2021-10-15 22:19:42",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <integer>855</integer>\n"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -34440,9 +34410,6 @@
         "unicode":"0983",
         "lastModified":"2020-09-05 23:04:07",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"  <integer>388</integer>\n"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -62166,9 +62133,6 @@
       {
         "name":"bDandaPoetic",
         "lastModified":"2020-09-05 23:04:07",
-        "lib":{
-          "note":"  <string>LSB +255</string>\n"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -62213,9 +62177,6 @@
       {
         "name":"bDoubleDandaPoetic",
         "lastModified":"2020-09-05 23:04:07",
-        "lib":{
-          "note":"  <string>LSB +255</string>\n"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -64104,7 +64065,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"8249"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -64132,6 +64093,7 @@
           "safeBottom":430,
           "underlineThickness":45,
           "underlinePosition":-88,
+          "cornerTension":0.67,
           "panose":"2 0 0 0 0 0 0 0 0 0",
           "guidelines":[
             {

@@ -44,6 +44,8 @@ https://github.com/TiroTypeworks/Indigo/issues/38
 
 
 TIRO DEVANAGARI MARATHI FONTS
-1. Revised design of vertical conjuncts involving initial or medial La, affecting
+1. Revised design of vertical conjuncts involving initial or medial Cha, affecting
  /dCChVa /dChVa /dNyChVa
 https://github.com/TiroTypeworks/Indigo/issues/32
+
+2. Updated VOLT GPOS mark positioning for revised Cha conjuncts.

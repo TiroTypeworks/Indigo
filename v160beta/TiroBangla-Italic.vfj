@@ -28195,9 +28195,6 @@
         "unicode":"0964",
         "lastModified":"2022-09-09 14:24:33",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"LSB +255"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -28234,9 +28231,6 @@
         "unicode":"0965",
         "lastModified":"2022-09-09 14:24:33",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"LSB +255"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -33924,9 +33918,6 @@
         "unicode":"0982",
         "lastModified":"2022-09-09 14:24:33",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"+388"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -33981,9 +33972,6 @@
         "unicode":"09fc",
         "lastModified":"2022-09-09 14:24:33",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"+656"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -34043,9 +34031,6 @@
         "name":"bAnusvaraVedic.alt",
         "lastModified":"2022-09-09 14:24:33",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"+855"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -34115,9 +34100,6 @@
         "unicode":"0983",
         "lastModified":"2022-09-09 14:24:33",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"+388"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -62203,9 +62185,6 @@
       {
         "name":"bDandaPoetic",
         "lastModified":"2022-09-09 14:24:33",
-        "lib":{
-          "note":"LSB +255"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -62253,9 +62232,6 @@
       {
         "name":"bDoubleDandaPoetic",
         "lastModified":"2022-09-09 14:24:33",
-        "lib":{
-          "note":"LSB +255"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -64169,7 +64145,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"8249"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -64199,6 +64175,7 @@
           "underlineThickness":45,
           "underlinePosition":-88,
           "caretOffset":-54,
+          "cornerTension":0.67,
           "italic":true,
           "panose":"2 0 0 0 0 0 0 0 0 0",
           "guidelines":[

@@ -1,16 +1,23 @@
 Tiro Indic fonts v1.60 CHANGE LOG
 
 
-BANGLA FONTS
+TIRO BANGLA FONTS
 1. Added glyphs
 /vArdhavisarga #U+1CF2
+https://github.com/TiroTypeworks/Indigo/issues/39
+
 /dAvagrahacomb #U+A8F1
+https://github.com/TiroTypeworks/Indigo/issues/39
+
 /bRa_bSignVocalicR #reph over full vowel ligature
 /bRa_bSignVocalicL #reph over full vowel ligature
 /bRa_bSignVocalicRr #reph over full vowel ligature
 /bRa_bSignVocalicLl #reph over full vowel ligature
+https://github.com/TiroTypeworks/Indigo/issues/21
+
 /bKSsNna.alt #Nna form conjunct
 /bHNna.alt #Nna form conjunct
+https://github.com/TiroTypeworks/Indigo/issues/30
 
 2. Added GSUB and GPOS for new glyphs to VOLT project.
  Added blws ligature lookups for Ra + vocalic vowel signs
@@ -22,6 +29,23 @@ BANGLA FONTS
 
 3. Fixed GPOS
  Added anchor support for /bSandhi mark (sup2 anchor group)
+ https://github.com/TiroTypeworks/Indigo/issues/44
 
 
 
+TIRO DEVANAGARI SANSKRIT FONTS
+1. Revised design of vertical conjuncts involving initial or medial La, affecting
+ /dCChMa /dCChLa /dCChVa /dChVa /dNyChNa /dNyChLa /dNyChVa
+https://github.com/TiroTypeworks/Indigo/issues/32
+
+2. Added new default forms of /dSTRa and /dSTRYa, and relegated previous forms to stylistic variants.
+https://github.com/TiroTypeworks/Indigo/issues/38
+
+
+
+TIRO DEVANAGARI MARATHI FONTS
+1. Revised design of vertical conjuncts involving initial or medial Cha, affecting
+ /dCChVa /dChVa /dNyChVa
+https://github.com/TiroTypeworks/Indigo/issues/32
+
+2. Updated VOLT GPOS mark positioning for revised Cha conjuncts.
