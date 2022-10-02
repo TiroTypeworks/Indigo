@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dGRYa" format="2">
+  <advance width="882"/>
+  <outline>
+    <component base="dGR.half"/>
+    <component base="dYa" xOffset="300"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

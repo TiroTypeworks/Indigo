@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dMPYa" format="2">
+  <advance width="1213"/>
+  <outline>
+    <component base="dYa" xOffset="631"/>
+    <component base="dP.half" xOffset="339"/>
+    <contour>
+      <point x="454" y="545" type="line"/>
+      <point x="456" y="555" type="line"/>
+      <point x="425" y="620" type="line"/>
+      <point x="34" y="620" type="line"/>
+      <point x="32" y="610" type="line"/>
+      <point x="63" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="174" y="138" type="curve" smooth="yes"/>
+      <point x="187" y="138"/>
+      <point x="197" y="145"/>
+      <point x="200" y="162" type="curve" smooth="yes"/>
+      <point x="279" y="581" type="line"/>
+      <point x="197" y="581" type="line"/>
+      <point x="129" y="235" type="line"/>
+      <point x="498" y="235" type="line"/>
+      <point x="484" y="310" type="line"/>
+      <point x="91" y="310" type="line" smooth="yes"/>
+      <point x="70" y="310"/>
+      <point x="59" y="300"/>
+      <point x="59" y="284" type="curve" smooth="yes"/>
+      <point x="59" y="232"/>
+      <point x="141" y="138"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.879,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

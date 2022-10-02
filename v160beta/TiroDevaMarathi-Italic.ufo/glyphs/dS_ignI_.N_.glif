@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dSignI.N" format="2">
+  <advance width="267"/>
+  <outline>
+    <contour>
+      <point x="234" y="604" type="line"/>
+      <point x="223" y="625"/>
+      <point x="218" y="651"/>
+      <point x="218" y="677" type="curve" smooth="yes"/>
+      <point x="218" y="742"/>
+      <point x="258" y="803"/>
+      <point x="330" y="803" type="curve" smooth="yes"/>
+      <point x="423" y="803"/>
+      <point x="485" y="732"/>
+      <point x="539" y="642" type="curve"/>
+      <point x="572" y="665" type="line"/>
+      <point x="496" y="809"/>
+      <point x="413" y="880"/>
+      <point x="314" y="880" type="curve" smooth="yes"/>
+      <point x="205" y="880"/>
+      <point x="150" y="804"/>
+      <point x="150" y="714" type="curve" smooth="yes"/>
+      <point x="150" y="676"/>
+      <point x="162" y="635"/>
+      <point x="179" y="604" type="curve"/>
+    </contour>
+    <contour>
+      <point x="129" y="-15" type="line"/>
+      <point x="240" y="571" type="line"/>
+      <point x="156" y="571" type="line"/>
+      <point x="51" y="47" type="line"/>
+      <point x="119" y="-15" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="545" type="line"/>
+      <point x="354" y="555" type="line"/>
+      <point x="323" y="620" type="line"/>
+      <point x="34" y="620" type="line"/>
+      <point x="32" y="610" type="line"/>
+      <point x="63" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

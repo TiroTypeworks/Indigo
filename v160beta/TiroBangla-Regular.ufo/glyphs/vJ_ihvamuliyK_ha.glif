@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vJihvamuliyKha" format="2">
+  <advance width="622"/>
+  <outline>
+    <component base="bKha"/>
+    <contour>
+      <point x="211" y="660" type="line"/>
+      <point x="427" y="892" type="line"/>
+      <point x="392" y="928" type="line"/>
+      <point x="387" y="928" type="line"/>
+      <point x="171" y="696" type="line"/>
+      <point x="207" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="435" y="669" type="line"/>
+      <point x="315" y="806" type="line"/>
+      <point x="292" y="779" type="line"/>
+      <point x="391" y="659" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="808" type="line"/>
+      <point x="214" y="928" type="line"/>
+      <point x="172" y="918" type="line"/>
+      <point x="290" y="781" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.805,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

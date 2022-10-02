@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dBDhYa" format="2">
+  <advance width="1261"/>
+  <outline>
+    <component base="dDh.half" xOffset="257"/>
+    <component base="dYa" xOffset="679"/>
+    <contour>
+      <point x="404" y="545" type="line"/>
+      <point x="480" y="620" type="line"/>
+      <point x="34" y="620" type="line"/>
+      <point x="32" y="610" type="line"/>
+      <point x="63" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="52" y="306" type="curve" smooth="yes"/>
+      <point x="52" y="229"/>
+      <point x="112" y="128"/>
+      <point x="251" y="128" type="curve" smooth="yes"/>
+      <point x="359" y="128"/>
+      <point x="450" y="189"/>
+      <point x="450" y="292" type="curve" smooth="yes"/>
+      <point x="450" y="375"/>
+      <point x="399" y="467"/>
+      <point x="256" y="467" type="curve" smooth="yes"/>
+      <point x="140" y="467"/>
+      <point x="52" y="399"/>
+    </contour>
+    <contour>
+      <point x="345" y="192" type="line"/>
+      <point x="208" y="419" type="line"/>
+      <point x="169" y="400" type="line"/>
+      <point x="305" y="174" type="line"/>
+    </contour>
+    <contour>
+      <point x="394" y="322" type="curve" smooth="yes"/>
+      <point x="394" y="252"/>
+      <point x="307" y="192"/>
+      <point x="220" y="192" type="curve" smooth="yes"/>
+      <point x="156" y="192"/>
+      <point x="116" y="224"/>
+      <point x="116" y="271" type="curve" smooth="yes"/>
+      <point x="116" y="341"/>
+      <point x="202" y="394"/>
+      <point x="292" y="394" type="curve" smooth="yes"/>
+      <point x="352" y="394"/>
+      <point x="394" y="371"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.879,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

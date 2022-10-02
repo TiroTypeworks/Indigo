@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vVisargaSvaritacomb" format="2">
+  <unicode hex="1CE2"/>
+  <outline>
+    <contour>
+      <point x="215" y="239" type="line"/>
+      <point x="215" y="249" type="line"/>
+      <point x="183" y="310" type="line"/>
+      <point x="-214" y="310" type="line"/>
+      <point x="-214" y="300" type="line"/>
+      <point x="-182" y="239" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="274"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

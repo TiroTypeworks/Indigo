@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignAu" format="2">
+  <advance width="1376"/>
+  <unicode hex="09CC"/>
+  <outline>
+    <component base="bSignE"/>
+    <component base="BASE" xOffset="414"/>
+    <component base="bAuMark" xOffset="1129"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

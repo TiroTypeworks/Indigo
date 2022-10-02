@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dSignEPrish" format="2">
+  <advance width="280"/>
+  <unicode hex="094E"/>
+  <outline>
+    <contour>
+      <point x="141" y="-15" type="line"/>
+      <point x="248" y="545" type="line"/>
+      <point x="365" y="545" type="line"/>
+      <point x="367" y="555" type="line"/>
+      <point x="335" y="620" type="line"/>
+      <point x="178" y="620" type="line"/>
+      <point x="63" y="47" type="line"/>
+      <point x="131" y="-15" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

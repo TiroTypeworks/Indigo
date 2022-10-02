@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vJihvamuliya" format="2">
+  <advance width="540"/>
+  <unicode hex="1CF5"/>
+  <outline>
+    <contour>
+      <point x="48" y="-10" type="line"/>
+      <point x="539" y="564" type="line"/>
+      <point x="492" y="620" type="line"/>
+      <point x="485" y="620" type="line"/>
+      <point x="-6" y="46" type="line"/>
+      <point x="41" y="-10" type="line"/>
+    </contour>
+    <contour>
+      <point x="433" y="0" type="line"/>
+      <point x="292" y="316" type="line"/>
+      <point x="255" y="282" type="line"/>
+      <point x="376" y="-12" type="line"/>
+    </contour>
+    <contour>
+      <point x="292" y="326" type="line"/>
+      <point x="171" y="620" type="line"/>
+      <point x="114" y="608" type="line"/>
+      <point x="255" y="292" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="90" x="40" y="0"/>
+  <guideline angle="90" x="473" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dSignAa" format="2">
+  <advance width="267"/>
+  <unicode hex="093E"/>
+  <outline>
+    <contour>
+      <point x="352" y="545" type="line"/>
+      <point x="354" y="555" type="line"/>
+      <point x="323" y="620" type="line"/>
+      <point x="34" y="620" type="line"/>
+      <point x="32" y="610" type="line"/>
+      <point x="63" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="581" type="line"/>
+      <point x="51" y="47" type="line"/>
+      <point x="119" y="-15" type="line"/>
+      <point x="129" y="-15" type="line"/>
+      <point x="242" y="581" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

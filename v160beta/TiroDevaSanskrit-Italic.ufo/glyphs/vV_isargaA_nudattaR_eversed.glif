@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vVisargaAnudattaReversed" format="2">
+  <advance width="472"/>
+  <outline>
+    <contour>
+      <point x="135" y="233" type="line"/>
+      <point x="156" y="237"/>
+      <point x="175" y="239"/>
+      <point x="195" y="239" type="curve" smooth="yes"/>
+      <point x="287" y="239"/>
+      <point x="327" y="198"/>
+      <point x="327" y="137" type="curve" smooth="yes"/>
+      <point x="327" y="65"/>
+      <point x="266" y="6"/>
+      <point x="148" y="-98" type="curve"/>
+      <point x="173" y="-126" type="line"/>
+      <point x="290" y="-20"/>
+      <point x="396" y="60"/>
+      <point x="396" y="169" type="curve" smooth="yes"/>
+      <point x="396" y="273"/>
+      <point x="307" y="315"/>
+      <point x="196" y="315" type="curve" smooth="yes"/>
+      <point x="170" y="315"/>
+      <point x="133" y="311"/>
+      <point x="101" y="304" type="curve"/>
+      <point x="99" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="516" type="line"/>
+      <point x="178" y="441" type="line"/>
+      <point x="240" y="371" type="line"/>
+      <point x="326" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="178" type="line"/>
+      <point x="112" y="103" type="line"/>
+      <point x="174" y="33" type="line"/>
+      <point x="260" y="105" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

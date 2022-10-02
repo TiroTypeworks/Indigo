@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vPrenkha" format="2">
+  <unicode hex="1CD2"/>
+  <outline>
+    <contour>
+      <point x="-188" y="780" type="line"/>
+      <point x="-198" y="728" type="line"/>
+      <point x="121" y="728" type="line"/>
+      <point x="131" y="780" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>dCChLa</key>
+  <string>dC_C_hL_a.glif</string>
+  <key>dCChMa</key>
+  <string>dC_C_hM_a.glif</string>
+  <key>dChVa</key>
+  <string>dC_hV_a.glif</string>
+  <key>dNyChLa</key>
+  <string>dN_yC_hL_a.glif</string>
+  <key>dNyChNa</key>
+  <string>dN_yC_hN_a.glif</string>
+  <key>dSTRYa</key>
+  <string>dS_T_R_Y_a.glif</string>
+  <key>dSTRa</key>
+  <string>dS_T_R_a.glif</string>
+</dict>
+</plist>

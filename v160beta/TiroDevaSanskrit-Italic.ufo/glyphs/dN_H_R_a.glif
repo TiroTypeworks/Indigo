@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dNHRa" format="2">
+  <advance width="901"/>
+  <outline>
+    <component base="dN.half"/>
+    <component base="dHRa" xOffset="325"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

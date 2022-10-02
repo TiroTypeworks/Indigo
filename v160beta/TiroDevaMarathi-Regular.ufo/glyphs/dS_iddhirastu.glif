@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dSiddhirastu" format="2">
+  <advance width="716"/>
+  <unicode hex="A8FC"/>
+  <outline>
+    <contour>
+      <point x="478" y="112" type="curve" smooth="yes"/>
+      <point x="607" y="112"/>
+      <point x="664" y="196"/>
+      <point x="664" y="270" type="curve" smooth="yes"/>
+      <point x="664" y="365"/>
+      <point x="570" y="465"/>
+      <point x="473" y="465" type="curve" smooth="yes"/>
+      <point x="403" y="465"/>
+      <point x="348" y="413"/>
+      <point x="348" y="351" type="curve" smooth="yes"/>
+      <point x="348" y="300"/>
+      <point x="386" y="254"/>
+      <point x="448" y="254" type="curve" smooth="yes"/>
+      <point x="456" y="254"/>
+      <point x="460" y="254"/>
+      <point x="473" y="256" type="curve"/>
+      <point x="473" y="267" type="line"/>
+      <point x="443" y="282"/>
+      <point x="425" y="298"/>
+      <point x="425" y="325" type="curve" smooth="yes"/>
+      <point x="425" y="367"/>
+      <point x="469" y="394"/>
+      <point x="511" y="394" type="curve" smooth="yes"/>
+      <point x="554" y="394"/>
+      <point x="597" y="366"/>
+      <point x="597" y="306" type="curve" smooth="yes"/>
+      <point x="597" y="256"/>
+      <point x="567" y="189"/>
+      <point x="458" y="189" type="curve" smooth="yes"/>
+      <point x="265" y="189"/>
+      <point x="197" y="401"/>
+      <point x="40" y="430" type="curve"/>
+      <point x="30" y="396" type="line"/>
+      <point x="186" y="356"/>
+      <point x="257" y="112"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.651,1,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>

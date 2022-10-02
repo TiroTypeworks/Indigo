@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bHeadline6" format="2">
+  <outline>
+    <contour>
+      <point x="138" y="552" type="line"/>
+      <point x="138" y="560" type="line"/>
+      <point x="78" y="620" type="line"/>
+      <point x="-50" y="620" type="line"/>
+      <point x="-50" y="612" type="line"/>
+      <point x="10" y="552" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

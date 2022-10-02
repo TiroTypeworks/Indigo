@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dGRa" format="2">
+  <advance width="603"/>
+  <outline>
+    <contour>
+      <point x="453" y="220" type="line"/>
+      <point x="454" y="325" type="line"/>
+      <point x="171" y="79" type="line"/>
+      <point x="234" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="202" type="curve" smooth="yes"/>
+      <point x="219" y="202"/>
+      <point x="227" y="210"/>
+      <point x="227" y="227" type="curve"/>
+      <point x="225" y="581" type="line"/>
+      <point x="143" y="581" type="line"/>
+      <point x="142" y="379" type="line"/>
+      <point x="78" y="379" type="line" smooth="yes"/>
+      <point x="60" y="379"/>
+      <point x="53" y="368"/>
+      <point x="53" y="356" type="curve" smooth="yes"/>
+      <point x="53" y="302"/>
+      <point x="160" y="202"/>
+    </contour>
+    <contour>
+      <point x="516" y="-15" type="line"/>
+      <point x="514" y="581" type="line"/>
+      <point x="430" y="581" type="line"/>
+      <point x="426" y="37" type="line"/>
+      <point x="506" y="-15" type="line"/>
+    </contour>
+    <contour>
+      <point x="631" y="545" type="line"/>
+      <point x="631" y="555" type="line"/>
+      <point x="597" y="620" type="line"/>
+      <point x="-28" y="620" type="line"/>
+      <point x="-28" y="610" type="line"/>
+      <point x="6" y="545" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

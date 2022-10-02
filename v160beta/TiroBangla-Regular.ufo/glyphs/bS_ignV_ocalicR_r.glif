@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignVocalicRr" format="2">
+  <unicode hex="09C4"/>
+  <outline>
+    <contour>
+      <point x="-13" y="-248" type="line"/>
+      <point x="-24" y="-203" type="line"/>
+      <point x="-61" y="-170"/>
+      <point x="-120" y="-127"/>
+      <point x="-170" y="-91" type="curve"/>
+      <point x="-69" y="-33" type="line"/>
+      <point x="-88" y="34" type="line"/>
+      <point x="-272" y="-74" type="line"/>
+      <point x="-269" y="-81" type="line"/>
+      <point x="-179" y="-134"/>
+      <point x="-110" y="-179"/>
+      <point x="-22" y="-248" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-13" y="-388" type="line"/>
+      <point x="-24" y="-343" type="line"/>
+      <point x="-61" y="-310"/>
+      <point x="-122" y="-266"/>
+      <point x="-172" y="-230" type="curve"/>
+      <point x="-82" y="-178" type="line"/>
+      <point x="-135" y="-133" type="line"/>
+      <point x="-272" y="-214" type="line"/>
+      <point x="-269" y="-221" type="line"/>
+      <point x="-179" y="-274"/>
+      <point x="-110" y="-319"/>
+      <point x="-22" y="-388" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

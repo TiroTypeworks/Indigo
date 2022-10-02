@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bCurrencyNomOne" format="2">
+  <advance width="484"/>
+  <unicode hex="09F4"/>
+  <outline>
+    <contour>
+      <point x="94" y="-1" type="line"/>
+      <point x="242" y="98"/>
+      <point x="376" y="267"/>
+      <point x="434" y="530" type="curve"/>
+      <point x="408" y="550" type="line"/>
+      <point x="402" y="550" type="line"/>
+      <point x="322" y="299"/>
+      <point x="190" y="169"/>
+      <point x="32" y="74" type="curve"/>
+      <point x="89" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

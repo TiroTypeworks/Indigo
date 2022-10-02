@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bSignI.wide3" format="2">
+  <advance width="247"/>
+  <outline>
+    <contour>
+      <point x="225" y="605" type="line"/>
+      <point x="203" y="640"/>
+      <point x="197" y="658"/>
+      <point x="197" y="680" type="curve" smooth="yes"/>
+      <point x="197" y="816"/>
+      <point x="415" y="828"/>
+      <point x="516" y="828" type="curve" smooth="yes"/>
+      <point x="740" y="828"/>
+      <point x="975" y="769"/>
+      <point x="1162" y="655" type="curve"/>
+      <point x="1169" y="655" type="line"/>
+      <point x="1190" y="686" type="line"/>
+      <point x="988" y="821"/>
+      <point x="705" y="900"/>
+      <point x="484" y="900" type="curve" smooth="yes"/>
+      <point x="313" y="900"/>
+      <point x="122" y="853"/>
+      <point x="122" y="722" type="curve" smooth="yes"/>
+      <point x="122" y="679"/>
+      <point x="143" y="662"/>
+      <point x="182" y="605" type="curve"/>
+    </contour>
+    <contour>
+      <point x="117" y="-43" type="line"/>
+      <point x="230" y="568" type="line"/>
+      <point x="158" y="568" type="line"/>
+      <point x="49" y="10" type="line"/>
+      <point x="106" y="-43" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="552" type="line"/>
+      <point x="317" y="560" type="line"/>
+      <point x="269" y="620" type="line"/>
+      <point x="22" y="620" type="line"/>
+      <point x="20" y="612" type="line"/>
+      <point x="68" y="552" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1721,7 +1721,6 @@
     <string>vAtikrama</string>
     <string>vAtikrama.connect</string>
     <string>vAnusvaraBahirgomukha</string>
-    <string>vArdhavisarga</string>
     <string>vTiryak</string>
     <string>vJihvamuliya</string>
     <string>vJihvamuliyKa</string>
@@ -1730,7 +1729,6 @@
     <string>vUpadhmaniyPa</string>
     <string>vUpadhmaniyPha</string>
     <string>bSandhi</string>
-    <string>dAvagrahacomb</string>
     <string>bReph</string>
     <string>bReph.flourish</string>
     <string>bSignIiReph</string>
@@ -1766,10 +1764,6 @@
     <string>bBhRa_bSignUu</string>
     <string>bRa_bSignU</string>
     <string>bRa_bSignUu</string>
-    <string>bRa_bSignVocalicR</string>
-    <string>bRa_bSignVocalicL</string>
-    <string>bRa_bSignVocalicRr</string>
-    <string>bRa_bSignVocalicLl</string>
     <string>bLGa_bSignU</string>
     <string>bSha_bSignU</string>
     <string>bShRa_bSignIi</string>
@@ -1798,7 +1792,6 @@
     <string>bKLa</string>
     <string>bKSsa</string>
     <string>bKSsNna</string>
-    <string>bKSsNna.alt</string>
     <string>bKSsBa</string>
     <string>bKSsMa</string>
     <string>bKSsRa</string>
@@ -2022,7 +2015,6 @@
     <string>bSRa</string>
     <string>bSLa</string>
     <string>bHNna</string>
-    <string>bHNna.alt</string>
     <string>bHNa</string>
     <string>bHBa</string>
     <string>bHMa</string>

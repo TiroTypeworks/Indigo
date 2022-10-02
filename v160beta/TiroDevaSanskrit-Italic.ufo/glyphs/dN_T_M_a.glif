@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dNTMa" format="2">
+  <advance width="1212"/>
+  <outline>
+    <component base="dT.half" xOffset="330"/>
+    <component base="dMa" xOffset="600"/>
+    <contour>
+      <point x="655" y="545" type="line"/>
+      <point x="657" y="555" type="line"/>
+      <point x="626" y="620" type="line"/>
+      <point x="34" y="620" type="line"/>
+      <point x="32" y="610" type="line"/>
+      <point x="63" y="545" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="399" type="line"/>
+      <point x="329" y="402"/>
+      <point x="189" y="405"/>
+      <point x="156" y="405" type="curve" smooth="yes"/>
+      <point x="97" y="405"/>
+      <point x="69" y="397"/>
+      <point x="69" y="362" type="curve" smooth="yes"/>
+      <point x="69" y="294"/>
+      <point x="141" y="223"/>
+      <point x="181" y="223" type="curve" smooth="yes"/>
+      <point x="212" y="223"/>
+      <point x="219" y="255"/>
+      <point x="234" y="328" type="curve"/>
+      <point x="459" y="328" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.879,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

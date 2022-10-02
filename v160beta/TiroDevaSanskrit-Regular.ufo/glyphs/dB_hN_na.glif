@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dBhNna" format="2">
+  <advance width="1159"/>
+  <outline>
+    <component base="dBh.half"/>
+    <component base="dNna" xOffset="446"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.602,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bRa" format="2">
+  <advance width="535"/>
+  <unicode hex="09B0"/>
+  <outline>
+    <component base="bBa"/>
+    <component base="bNukta" xOffset="315" yOffset="169"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

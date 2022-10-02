@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bVirama" format="2">
+  <unicode hex="09CD"/>
+  <outline>
+    <contour>
+      <point x="67" y="-256" type="line"/>
+      <point x="54" y="-202" type="line"/>
+      <point x="-150" y="-36" type="line"/>
+      <point x="-156" y="-38" type="line"/>
+      <point x="-140" y="-110" type="line"/>
+      <point x="61" y="-258" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

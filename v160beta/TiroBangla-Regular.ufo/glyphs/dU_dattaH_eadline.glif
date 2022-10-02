@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dUdattaHeadline" format="2">
+  <outline>
+    <contour>
+      <point x="150" y="552" type="line"/>
+      <point x="150" y="560" type="line"/>
+      <point x="90" y="620" type="line"/>
+      <point x="-50" y="620" type="line"/>
+      <point x="-50" y="612" type="line"/>
+      <point x="10" y="552" type="line"/>
+    </contour>
+    <contour>
+      <point x="-31" y="672" type="line"/>
+      <point x="-31" y="917" type="line"/>
+      <point x="-79" y="917" type="line"/>
+      <point x="-79" y="672" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

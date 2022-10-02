@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SvastiRightDots" format="2">
+  <advance width="826"/>
+  <unicode hex="0FD7"/>
+  <outline>
+    <contour>
+      <point x="617" y="448" type="line"/>
+      <point x="563" y="394" type="line"/>
+      <point x="509" y="448" type="line"/>
+      <point x="563" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="617" y="178" type="line"/>
+      <point x="563" y="125" type="line"/>
+      <point x="509" y="178" type="line"/>
+      <point x="563" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="448" type="line"/>
+      <point x="293" y="394" type="line"/>
+      <point x="239" y="448" type="line"/>
+      <point x="293" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="178" type="line"/>
+      <point x="293" y="125" type="line"/>
+      <point x="239" y="178" type="line"/>
+      <point x="293" y="232" type="line"/>
+    </contour>
+    <contour>
+      <point x="660" y="275" type="line"/>
+      <point x="466" y="275" type="line"/>
+      <point x="466" y="7" type="line"/>
+      <point x="149" y="7" type="line"/>
+      <point x="115" y="72" type="line"/>
+      <point x="115" y="82" type="line"/>
+      <point x="390" y="82" type="line"/>
+      <point x="390" y="275" type="line"/>
+      <point x="122" y="275" type="line"/>
+      <point x="122" y="592" type="line"/>
+      <point x="187" y="626" type="line"/>
+      <point x="197" y="626" type="line"/>
+      <point x="197" y="351" type="line"/>
+      <point x="390" y="351" type="line"/>
+      <point x="390" y="620" type="line"/>
+      <point x="707" y="620" type="line"/>
+      <point x="741" y="555" type="line"/>
+      <point x="741" y="545" type="line"/>
+      <point x="466" y="545" type="line"/>
+      <point x="466" y="351" type="line"/>
+      <point x="735" y="351" type="line"/>
+      <point x="735" y="34" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="660" y="0" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="306"/>
+  <guideline angle="0" x="0" y="448"/>
+  <guideline angle="0" x="0" y="178"/>
+  <guideline angle="90" x="413" y="0"/>
+  <guideline angle="90" x="278" y="0"/>
+  <guideline angle="90" x="548" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

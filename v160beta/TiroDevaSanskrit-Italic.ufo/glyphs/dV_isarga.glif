@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dVisarga" format="2">
+  <unicode hex="0903"/>
+  <outline>
+    <contour>
+      <point x="169" y="485" type="line"/>
+      <point x="81" y="410" type="line"/>
+      <point x="144" y="336" type="line"/>
+      <point x="233" y="408" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="213" type="line"/>
+      <point x="28" y="138" type="line"/>
+      <point x="91" y="64" type="line"/>
+      <point x="180" y="136" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
+  </dict>
+  </lib>
+</glyph>

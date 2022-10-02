@@ -99,9 +99,9 @@
   <lib>
   <dict>
   <key>note</key>
-  <integer>855</integer>
+  <integer>+855</integer>
   <key>public.markColor</key>
-  <string>0.6,1,0.602,1</string>
+  <string>0.879,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>
