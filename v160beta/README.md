@@ -7,7 +7,7 @@ To build fonts from the v1.60 BETA stream, use the `v160beta.yml` configuration 
 ### Stable
 Tiro Bangla v160 BETA
 
-### Unstable
 Tiro Devanagari Marathi v160 BETA
 
+### Unstable
 Tiro Devanagari Sanskrit v160 BETA

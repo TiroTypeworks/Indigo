@@ -6,15 +6,37 @@ components:
 
 fonts:
   TiroBangla-Regular:
-    source: source/TiroBangla-Regular.ufo
+    source: v160beta/TiroBangla-Regular.ufo
     ttf:
-      source: source/TiroBangla-Regular.input.ttf
+      source: v160beta/TiroBangla-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
 
   TiroBangla-Italic:
-    source: source/TiroBangla-Italic.ufo
+    source: v160beta/TiroBangla-Italic.ufo
     ttf:
-      source: source/TiroBangla-Italic.input.ttf
+      source: v160beta/TiroBangla-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
 
+  TiroDevaMarathi-Regular:
+    source: v160beta/TiroDevaMarathi-Regular.ufo
+    ttf:
+      source: v160beta/TiroDevaMarathi-Regular.input.ttf
+      tables: [GDEF, GSUB, GPOS]
 
+  TiroDevaMarathi-Italic:
+    source: v160beta/TiroDevaMarathi-Italic.ufo
+    ttf:
+      source: v160beta/TiroDevaMarathi-Italic.input.ttf
+      tables: [GDEF, GSUB, GPOS]
+
+  TiroDevaSanskrit-Regular:
+    source: v160beta/TiroDevaSanskrit-Regular.ufo
+    ttf:
+      source: v160beta/TiroDevaSanskrit-Regular.input.ttf
+      tables: [GDEF, GSUB, GPOS]
+
+  TiroDevaSanskrit-Italic:
+    source: v160beta/DevaSanskrit-Italic.ufo
+    ttf:
+      source: v160beta/TiroDevaSanskrit-Italic.input.ttf
+      tables: [GDEF, GSUB, GPOS]
