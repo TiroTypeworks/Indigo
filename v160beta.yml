@@ -36,7 +36,7 @@ fonts:
       tables: [GDEF, GSUB, GPOS]
 
   TiroDevaSanskrit-Italic:
-    source: v160beta/DevaSanskrit-Italic.ufo
+    source: v160beta/TiroDevaSanskrit-Italic.ufo
     ttf:
       source: v160beta/TiroDevaSanskrit-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]

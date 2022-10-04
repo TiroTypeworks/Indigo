@@ -48,6 +48,8 @@ https://github.com/TiroTypeworks/Indigo/issues/38
 5. Corrected /dVisarga GDEF categorisation to mark.
 https://github.com/TiroTypeworks/Indigo/issues/19
 
+6. Fixed svarita (/dUdatta) and double-svarita positioning relative to reph and other above marks.
+https://github.com/TiroTypeworks/Indigo/issues/37
 
 
 TIRO DEVANAGARI MARATHI FONTS
