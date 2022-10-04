@@ -47977,13 +47977,13 @@
       },
       {
         "name":"dCChVa",
-        "lastModified":"2022-10-02 18:51:16",
+        "lastModified":"2022-10-04 18:45:43",
         "colorFlag":31,
         "layers":[
           {
             "name":"Regular",
             "colorFlag":31,
-            "advanceWidth":1077,
+            "advanceWidth":1092,
             "elements":[
               {
                 "elementData":{
@@ -48025,16 +48025,16 @@
                       ]
                     }
                   ]
-                },
-                "active":true
+                }
               },
               {
                 "component":{
                   "glyphName":"dChVa"
                 },
                 "transform":{
-                  "xOffset":326
-                }
+                  "xOffset":341
+                },
+                "active":true
               }
             ]
           }
@@ -48457,7 +48457,7 @@
       },
       {
         "name":"dChVa",
-        "lastModified":"2022-10-02 18:53:14",
+        "lastModified":"2022-10-04 18:45:43",
         "colorFlag":31,
         "layers":[
           {
@@ -50813,13 +50813,13 @@
       },
       {
         "name":"dNyChVa",
-        "lastModified":"2022-10-02 18:51:16",
+        "lastModified":"2022-10-04 18:45:43",
         "colorFlag":31,
         "layers":[
           {
             "name":"Regular",
             "colorFlag":31,
-            "advanceWidth":1235,
+            "advanceWidth":1241,
             "elements":[
               {
                 "component":{

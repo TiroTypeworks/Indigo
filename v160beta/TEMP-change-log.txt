@@ -41,9 +41,9 @@ https://github.com/TiroTypeworks/Indigo/issues/32
 2. Replaced /dSTRa and /dSTRYa with new forms.
 https://github.com/TiroTypeworks/Indigo/issues/38
 
-3. Updated GSUB contextual groups and lookups for new /dSTRa and /dSTRYa glyphs.
+3. Moved /dSTRa to VOLT glyph group for medium-width ikar.
 
-4. Updated GPOS anchor lookups for new /dSTRa and /dSTRYa glyphs..
+4. Updated GPOS anchor lookups for new /dSTRa and /dSTRYa glyphs.
 
 5. Corrected /dVisarga GDEF categorisation to mark.
 https://github.com/TiroTypeworks/Indigo/issues/19
