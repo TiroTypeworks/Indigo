@@ -41,6 +41,15 @@ https://github.com/TiroTypeworks/Indigo/issues/32
 2. Added new default forms of /dSTRa and /dSTRYa, and relegated previous forms to stylistic variants.
 https://github.com/TiroTypeworks/Indigo/issues/38
 
+3. Added relegated variant forms of /dSTRa.alt and /dSTRYa.alt to new <ss02> feature with /dTRa.alt and /dTRYa.alt (the latter otherwise contextual after half forms).
+
+4. Updated GSUB contextual groups and lookups for new /dSTRa and /dSTRYa glyphs and relegated variant forms.
+
+5. Updated GPOS kern groups and lookups, and anchor lookups for new /dSTRa and /dSTRYa glyphs and relegated variant forms.
+
+6. Corrected /dVisarga GDEF categorisation to mark.
+https://github.com/TiroTypeworks/Indigo/issues/19
+
 
 
 TIRO DEVANAGARI MARATHI FONTS

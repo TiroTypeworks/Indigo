@@ -1723,9 +1723,7 @@
     <string>dSTMa</string>
     <string>dSTYa</string>
     <string>dSTRa</string>
-    <string>dSTRa.alt</string>
     <string>dSTRYa</string>
-    <string>dSTRYa.alt</string>
     <string>dSTVa</string>
     <string>dSTSa</string>
     <string>dSTha</string>
@@ -1980,7 +1978,6 @@
     <string>dOmJain</string>
     <string>dOm</string>
     <string>flowerpunc</string>
-    <string>dSTRYa.1</string>
   </array>
 </dict>
 </plist>
