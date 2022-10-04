@@ -1,7 +1,7 @@
 {
   "version":8,
   "font":{
-    "glyphsCount":1838,
+    "glyphsCount":1835,
     "upm":1000,
     "glyphs":[
       {
@@ -77188,34 +77188,6 @@
         ]
       },
       {
-        "name":"dSTRa.alt",
-        "lastModified":"2022-10-02 18:14:23",
-        "colorFlag":241,
-        "layers":[
-          {
-            "name":"Italic",
-            "colorFlag":241,
-            "advanceWidth":1018,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"dS.half"
-                },
-                "active":true
-              },
-              {
-                "component":{
-                  "glyphName":"dTRa.alt"
-                },
-                "transform":{
-                  "xOffset":395
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
         "name":"dSTRYa",
         "lastModified":"2022-10-02 18:19:05",
         "colorFlag":1,
@@ -77426,34 +77398,6 @@
             ],
             "color":"#bac000",
             "active":true
-          }
-        ]
-      },
-      {
-        "name":"dSTRYa.alt",
-        "lastModified":"2022-10-02 18:14:23",
-        "colorFlag":241,
-        "layers":[
-          {
-            "name":"Italic",
-            "colorFlag":241,
-            "advanceWidth":1330,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"dS.half"
-                },
-                "active":true
-              },
-              {
-                "component":{
-                  "glyphName":"dTRYa.alt"
-                },
-                "transform":{
-                  "xOffset":395
-                }
-              }
-            ]
           }
         ]
       },
@@ -89881,19 +89825,6 @@
                 "position":305
               }
             ]
-          }
-        ]
-      },
-      {
-        "name":"dSTRYa.1",
-        "lastModified":"2022-10-02 18:17:34",
-        "colorFlag":1,
-        "layers":[
-          {
-            "name":"Regular",
-            "colorFlag":1,
-            "flags":0,
-            "advanceWidth":1090
           }
         ]
       }

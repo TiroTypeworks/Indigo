@@ -1,7 +1,7 @@
 {
   "version":8,
   "font":{
-    "glyphsCount":1837,
+    "glyphsCount":1835,
     "upm":1000,
     "glyphs":[
       {
@@ -76885,34 +76885,6 @@
         ]
       },
       {
-        "name":"dSTRa.alt",
-        "lastModified":"2021-10-31 20:21:15",
-        "colorFlag":240,
-        "layers":[
-          {
-            "name":"Regular",
-            "colorFlag":240,
-            "advanceWidth":1018,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"dS.half"
-                },
-                "active":true
-              },
-              {
-                "component":{
-                  "glyphName":"dTRa.alt"
-                },
-                "transform":{
-                  "xOffset":395
-                }
-              }
-            ]
-          }
-        ]
-      },
-      {
         "name":"dSTRYa",
         "lastModified":"2022-10-02 18:17:22",
         "colorFlag":31,
@@ -77025,34 +76997,6 @@
             ],
             "color":"#bac000",
             "active":true
-          }
-        ]
-      },
-      {
-        "name":"dSTRYa.alt",
-        "lastModified":"2022-10-02 17:56:13",
-        "colorFlag":240,
-        "layers":[
-          {
-            "name":"Regular",
-            "colorFlag":240,
-            "advanceWidth":1330,
-            "elements":[
-              {
-                "component":{
-                  "glyphName":"dS.half"
-                },
-                "active":true
-              },
-              {
-                "component":{
-                  "glyphName":"dTRYa.alt"
-                },
-                "transform":{
-                  "xOffset":395
-                }
-              }
-            ]
           }
         ]
       },
