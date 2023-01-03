@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>tCai</key>
+  <string>tC_ai.glif</string>
   <key>tNukta</key>
   <string>tN_ukta.glif</string>
 </dict>
