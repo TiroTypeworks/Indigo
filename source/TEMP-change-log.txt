@@ -38,9 +38,18 @@ TIRO DEVANAGARI SANSKRIT FONTS
  /dCChMa /dCChLa /dCChVa /dChVa /dNyChNa /dNyChLa /dNyChVa
 https://github.com/TiroTypeworks/Indigo/issues/32
 
-2. Added new default forms of /dSTRa and /dSTRYa, and relegated previous forms to stylistic variants.
+2. Replaced /dSTRa and /dSTRYa with new forms.
 https://github.com/TiroTypeworks/Indigo/issues/38
 
+3. Moved /dSTRa to VOLT glyph group for medium-width ikar.
+
+4. Updated GPOS anchor lookups for new /dSTRa and /dSTRYa glyphs.
+
+5. Corrected /dVisarga GDEF categorisation to mark.
+https://github.com/TiroTypeworks/Indigo/issues/19
+
+6. Fixed svarita (/dUdatta) and double-svarita positioning relative to reph and other above marks.
+https://github.com/TiroTypeworks/Indigo/issues/37
 
 
 TIRO DEVANAGARI MARATHI FONTS

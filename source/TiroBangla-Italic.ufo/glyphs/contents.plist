@@ -994,6 +994,8 @@
   <string>bH_N_a.glif</string>
   <key>bHNna</key>
   <string>bH_N_na.glif</string>
+  <key>bHNna.alt</key>
+  <string>bH_N_na.alt.glif</string>
   <key>bHRa</key>
   <string>bH_R_a.glif</string>
   <key>bHYa</key>
@@ -1062,6 +1064,8 @@
   <string>bK_S_sM_a.glif</string>
   <key>bKSsNna</key>
   <string>bK_S_sN_na.glif</string>
+  <key>bKSsNna.alt</key>
+  <string>bK_S_sN_na.alt.glif</string>
   <key>bKSsRa</key>
   <string>bK_S_sR_a.glif</string>
   <key>bKSsa</key>
@@ -1320,6 +1324,14 @@
   <string>bR_a_bS_ignU_.glif</string>
   <key>bRa_bSignUu</key>
   <string>bR_a_bS_ignU_u.glif</string>
+  <key>bRa_bSignVocalicL</key>
+  <string>bR_a_bS_ignV_ocalicL_.glif</string>
+  <key>bRa_bSignVocalicLl</key>
+  <string>bR_a_bS_ignV_ocalicL_l.glif</string>
+  <key>bRa_bSignVocalicR</key>
+  <string>bR_a_bS_ignV_ocalicR_.glif</string>
+  <key>bRa_bSignVocalicRr</key>
+  <string>bR_a_bS_ignV_ocalicR_r.glif</string>
   <key>bRaphala</key>
   <string>bR_aphala.glif</string>
   <key>bReph</key>
@@ -1700,6 +1712,8 @@
   <string>dA_nudatta.glif</string>
   <key>dAnudatta.W</key>
   <string>dA_nudatta.W_.glif</string>
+  <key>dAvagrahacomb</key>
+  <string>dA_vagrahacomb.glif</string>
   <key>dUdatta</key>
   <string>dU_datta.glif</string>
   <key>dUdattaHeadline</key>
@@ -2316,6 +2330,8 @@
   <string>v.glif</string>
   <key>vAnusvaraBahirgomukha</key>
   <string>vA_nusvaraB_ahirgomukha.glif</string>
+  <key>vArdhavisarga</key>
+  <string>vA_rdhavisarga.glif</string>
   <key>vAtikrama</key>
   <string>vA_tikrama.glif</string>
   <key>vAtikrama.connect</key>

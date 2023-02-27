@@ -2330,7 +2330,7 @@
       {
         "name":"Ccedilla",
         "unicode":"00c7",
-        "lastModified":"2021-10-31 20:23:42",
+        "lastModified":"2022-10-02 19:06:34",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -8758,7 +8758,7 @@
       {
         "name":"ccedilla",
         "unicode":"00e7",
-        "lastModified":"2021-10-31 20:23:42",
+        "lastModified":"2022-10-02 19:06:34",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -15284,7 +15284,7 @@
       },
       {
         "name":"Ccedilla.sc",
-        "lastModified":"2021-10-31 20:23:42",
+        "lastModified":"2022-10-02 19:06:34",
         "openTypeGlyphClass":1,
         "colorFlag":240,
         "layers":[
@@ -20034,7 +20034,7 @@
       {
         "name":"cedilla",
         "unicode":"00b8",
-        "lastModified":"2021-10-31 20:23:42",
+        "lastModified":"2022-10-02 19:06:34",
         "openTypeGlyphClass":1,
         "colorFlag":296,
         "layers":[
@@ -21036,13 +21036,13 @@
       {
         "name":"cedillacomb",
         "unicode":"0327",
-        "lastModified":"2021-10-31 20:17:21",
+        "lastModified":"2022-10-02 19:06:34",
         "openTypeGlyphClass":3,
-        "colorFlag":31,
+        "colorFlag":121,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":0,
             "elements":[
               {
@@ -28080,9 +28080,6 @@
         "unicode":"0964",
         "lastModified":"2021-04-28 00:05:13",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"LSB +262"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -28120,9 +28117,6 @@
         "unicode":"0965",
         "lastModified":"2021-04-28 00:05:13",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"LSB +262"
-        },
         "colorFlag":121,
         "layers":[
           {
@@ -33512,12 +33506,12 @@
       },
       {
         "name":"dSignCandraEAnusvara",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":181,
+        "lastModified":"2022-10-02 19:06:40",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":181,
+            "colorFlag":241,
             "advanceWidth":0,
             "elements":[
               {
@@ -33543,12 +33537,12 @@
       },
       {
         "name":"dSignCandraEReph",
-        "lastModified":"2021-04-29 22:50:37",
-        "colorFlag":31,
+        "lastModified":"2022-10-02 19:06:34",
+        "colorFlag":121,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":0,
             "elements":[
               {
@@ -33587,12 +33581,12 @@
       },
       {
         "name":"dSignCandraERephAnusvara",
-        "lastModified":"2021-04-29 22:50:37",
-        "colorFlag":31,
+        "lastModified":"2022-10-02 19:06:34",
+        "colorFlag":121,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":0,
             "elements":[
               {
@@ -33639,12 +33633,12 @@
       },
       {
         "name":"dSignShortEAnusvara",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":181,
+        "lastModified":"2022-10-02 19:06:40",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":181,
+            "colorFlag":241,
             "advanceWidth":0,
             "elements":[
               {
@@ -33667,12 +33661,12 @@
       },
       {
         "name":"dSignShortEReph",
-        "lastModified":"2021-04-29 22:50:37",
-        "colorFlag":31,
+        "lastModified":"2022-10-02 19:06:34",
+        "colorFlag":121,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":0,
             "elements":[
               {
@@ -33721,12 +33715,12 @@
       },
       {
         "name":"dSignShortERephAnusvara",
-        "lastModified":"2021-04-29 22:50:37",
-        "colorFlag":31,
+        "lastModified":"2022-10-02 19:06:34",
+        "colorFlag":121,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":31,
+            "colorFlag":121,
             "advanceWidth":0,
             "elements":[
               {
@@ -34049,12 +34043,12 @@
       },
       {
         "name":"dSignCandraOReph",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":181,
+        "lastModified":"2022-10-02 19:06:40",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":181,
+            "colorFlag":241,
             "advanceWidth":267,
             "elements":[
               {
@@ -34076,12 +34070,12 @@
       },
       {
         "name":"dSignCandraORephAnusvara",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":181,
+        "lastModified":"2022-10-02 19:06:40",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":181,
+            "colorFlag":241,
             "advanceWidth":267,
             "elements":[
               {
@@ -34103,12 +34097,12 @@
       },
       {
         "name":"dSignShortOReph",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":181,
+        "lastModified":"2022-10-02 19:06:40",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":181,
+            "colorFlag":241,
             "advanceWidth":267,
             "elements":[
               {
@@ -34130,12 +34124,12 @@
       },
       {
         "name":"dSignShortORephAnusvara",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":181,
+        "lastModified":"2022-10-02 19:06:40",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":181,
+            "colorFlag":241,
             "advanceWidth":267,
             "elements":[
               {
@@ -39851,13 +39845,13 @@
       },
       {
         "name":"dCChVa",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":282,
+        "lastModified":"2022-10-02 19:07:05",
+        "colorFlag":31,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":282,
-            "advanceWidth":1071,
+            "colorFlag":31,
+            "advanceWidth":1092,
             "elements":[
               {
                 "elementData":{
@@ -39906,8 +39900,9 @@
                   "glyphName":"dChVa"
                 },
                 "transform":{
-                  "xOffset":326
-                }
+                  "xOffset":341
+                },
+                "locked":true
               }
             ]
           }
@@ -40107,78 +40102,45 @@
       },
       {
         "name":"dChVa",
-        "lastModified":"2021-04-28 00:05:13",
-        "colorFlag":121,
+        "lastModified":"2022-10-02 19:07:05",
+        "colorFlag":31,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":121,
-            "advanceWidth":745,
+            "colorFlag":31,
+            "advanceWidth":751,
             "elements":[
+              {
+                "elementData":{
+                  "component":{
+                    "glyphName":"dCha"
+                  }
+                },
+                "locked":true
+              },
               {
                 "elementData":{
                   "contours":[
                     {
                       "nodes":[
-                        "335 110 s",
-                        "514 110  719 244  719 424 s",
-                        "719 520  666 604  581 604 s",
-                        "503 604  434 551  434 469 s",
-                        "434 384  519 318  566 284",
-                        "599 313",
-                        "537 350  513 399  513 449 s",
-                        "513 505  548 544  594 544 s",
-                        "630 544  660 521  660 463 s",
-                        "660 329  465 172  318 172 s",
-                        "248 172  196 196  196 245 s",
-                        "196 292  256 335  377 344",
-                        "365 423",
-                        "248 413  126 366  126 274 s",
-                        "126 197  209 110 c"
+                        "446 -278",
+                        "520 113",
+                        "439 76",
+                        "378 -221",
+                        "437 -278"
                       ]
                     },
                     {
                       "nodes":[
-                        "459 -178",
-                        "533 213",
-                        "452 176",
-                        "391 -121",
-                        "450 -178"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "210 371",
-                        "187 392  168 416  168 450 s",
-                        "168 501  216 536  281 536 s",
-                        "293 536  302 535  309 534",
-                        "305 560",
-                        "144 560",
-                        "113 531  99 508  99 472 s",
-                        "99 428  128 383  179 343"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "830 545",
-                        "832 555",
-                        "801 620",
-                        "34 620",
-                        "32 610",
-                        "63 545"
-                      ]
-                    },
-                    {
-                      "nodes":[
-                        "320 -90 s",
-                        "355 -90  382 -80  422 -62",
-                        "439 27",
-                        "355 -24  317 -32  290 -32 s",
-                        "253 -32  230 -17  230 17 s",
-                        "230 76  296 112  363 115",
-                        "266 163",
-                        "203 134  168 96  168 41 s",
-                        "168 -34  242 -90 c"
+                        "307 -190 s",
+                        "342 -190  369 -180  409 -162",
+                        "426 -73",
+                        "342 -124  304 -132  277 -132 s",
+                        "240 -132  217 -117  217 -83 s",
+                        "217 -24  283 12  350 15",
+                        "253 63",
+                        "190 34  155 -4  155 -59 s",
+                        "155 -134  229 -190 c"
                       ]
                     }
                   ]
@@ -41206,42 +41168,51 @@
       },
       {
         "name":"dNyChVa",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":282,
+        "lastModified":"2022-10-02 19:07:05",
+        "colorFlag":31,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":282,
+            "colorFlag":31,
             "advanceWidth":1235,
             "elements":[
+              {
+                "component":{
+                  "glyphName":"dChVa"
+                },
+                "transform":{
+                  "xOffset":490
+                },
+                "locked":true
+              },
               {
                 "elementData":{
                   "contours":[
                     {
                       "nodes":[
-                        "314 117 s",
-                        "406 117  494 169  494 286 s",
-                        "494 379  439 470  342 470 s",
-                        "308 470  268 459  222 437",
-                        "250 360",
-                        "288 379  330 394  368 394 s",
-                        "409 394  436 371  436 321 s",
-                        "436 246  378 193  295 193 s",
-                        "191 193  137 278  92 393",
-                        "54 372",
-                        "118 201  196 117 c"
+                        "308 87 s",
+                        "400 87  488 139  488 256 s",
+                        "488 349  428 440  336 440 s",
+                        "302 440  262 429  216 407",
+                        "244 330",
+                        "282 349  324 364  362 364 s",
+                        "403 364  430 341  430 291 s",
+                        "430 216  372 163  289 163 s",
+                        "185 163  131 248  86 363",
+                        "48 342",
+                        "112 171  190 87 c"
                       ]
                     },
                     {
                       "nodes":[
-                        "570 222 s",
-                        "588 222  609 227  632 241",
-                        "641 334",
-                        "606 310  572 297  543 297 s",
-                        "522 297  503 305  482 318",
-                        "476 254",
-                        "494 262",
-                        "512 241  537 222 c"
+                        "594 182 s",
+                        "621 182  649 186  678 194",
+                        "658 262",
+                        "633 253  605 250  579 250 s",
+                        "537 250  500 259  481 277",
+                        "470 221",
+                        "487 228",
+                        "515 196  553 182 c"
                       ]
                     },
                     {
@@ -41255,14 +41226,6 @@
                       ]
                     }
                   ]
-                }
-              },
-              {
-                "component":{
-                  "glyphName":"dChVa"
-                },
-                "transform":{
-                  "xOffset":490
                 }
               }
             ]
@@ -51443,12 +51406,12 @@
       },
       {
         "name":"dRHLa",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":181,
+        "lastModified":"2022-10-02 19:06:40",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":181,
+            "colorFlag":241,
             "advanceWidth":962,
             "elements":[
               {
@@ -51470,12 +51433,12 @@
       },
       {
         "name":"dRHVa",
-        "lastModified":"2021-10-31 20:23:42",
-        "colorFlag":181,
+        "lastModified":"2022-10-02 19:06:40",
+        "colorFlag":241,
         "layers":[
           {
             "name":"Italic",
-            "colorFlag":181,
+            "colorFlag":241,
             "advanceWidth":883,
             "elements":[
               {
@@ -61713,7 +61676,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"8249"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -61743,6 +61706,7 @@
           "underlineThickness":45,
           "underlinePosition":-88,
           "caretOffset":-54,
+          "cornerTension":0.67,
           "italic":true,
           "panose":"2 0 0 0 0 0 0 0 0 0",
           "guidelines":[

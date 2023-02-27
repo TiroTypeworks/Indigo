@@ -88,7 +88,7 @@
       <point x="489" y="248"/>
       <point x="485" y="189"/>
       <point x="483" y="153" type="curve"/>
-      <point x="473" y="83" type="line"/>
+      <point x="471" y="11" type="line"/>
       <point x="467" y="-102" type="line"/>
       <point x="491" y="-119" type="line"/>
     </contour>
@@ -144,7 +144,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.874,0.6,1</string>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

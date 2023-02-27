@@ -10,12 +10,16 @@ fonts:
     ttf:
       source: source/TiroBangla-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    names:
+      5: Version 1.60 
 
   TiroBangla-Italic:
     source: source/TiroBangla-Italic.ufo
     ttf:
       source: source/TiroBangla-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    names:
+      5: Version 1.60 
 
   TiroDevaHindi-Regular:
     source: source/TiroDevaHindi-Regular.ufo
@@ -34,24 +38,32 @@ fonts:
     ttf:
       source: source/TiroDevaMarathi-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    names:
+      5: Version 1.60 
 
   TiroDevaMarathi-Italic:
     source: source/TiroDevaMarathi-Italic.ufo
     ttf:
       source: source/TiroDevaMarathi-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    names:
+      5: Version 1.60 
 
   TiroDevaSanskrit-Regular:
     source: source/TiroDevaSanskrit-Regular.ufo
     ttf:
       source: source/TiroDevaSanskrit-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    names:
+      5: Version 1.60 
 
   TiroDevaSanskrit-Italic:
     source: source/TiroDevaSanskrit-Italic.ufo
     ttf:
       source: source/TiroDevaSanskrit-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    names:
+      5: Version 1.60 
 
   TiroGurmukhi-Regular:
     source: source/TiroGurmukhi-Regular.ufo
