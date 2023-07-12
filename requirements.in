@@ -1,3 +1,4 @@
+axisregistry
 cffsubr
 fontTools[woff]
 psautohint
@@ -6,3 +7,4 @@ skia-pathops
 ttfautohint-py
 ufo2ft
 ufoLib2
+uharfbuzz
