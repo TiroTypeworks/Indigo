@@ -19521,7 +19521,8 @@
                 },
                 "transform":{
                   "xOffset":466
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -24342,7 +24343,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -26135,7 +26137,8 @@
                 },
                 "transform":{
                   "yOffset":-338
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -26238,9 +26241,6 @@
         "unicode":"00bc",
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"one.numr fraction 20\r\nfraction four.dnom -60"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -26283,9 +26283,6 @@
         "unicode":"00bd",
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"one.numr fraction 20\r\nfraction two.dnom -10"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -26328,9 +26325,6 @@
         "unicode":"00be",
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"three.numr fraction -10\r\nfraction four.dnom -60"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -26373,9 +26367,6 @@
         "unicode":"0025",
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"zero.numr fraction -25\r\nfraction zero.dnom -25"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -26418,9 +26409,6 @@
         "unicode":"2030",
         "lastModified":"2021-10-31 20:21:23",
         "openTypeGlyphClass":1,
-        "lib":{
-          "note":"zero.numr fraction -25\r\nfraction zero.dnom -25"
-        },
         "colorFlag":296,
         "layers":[
           {
@@ -27572,9 +27560,6 @@
         "name":"Danda",
         "unicode":"0964",
         "lastModified":"2020-09-05 23:12:52",
-        "lib":{
-          "note":"LSB +245"
-        },
         "colorFlag":42,
         "layers":[
           {
@@ -27614,9 +27599,6 @@
         "name":"DoubleDanda",
         "unicode":"0965",
         "lastModified":"2020-09-05 23:12:52",
-        "lib":{
-          "note":"LSB +245"
-        },
         "colorFlag":42,
         "layers":[
           {
@@ -37376,7 +37358,7 @@
       },
       {
         "name":"t.Three.sups",
-        "lastModified":"2020-09-05 23:12:52",
+        "lastModified":"2024-07-16 23:23:09",
         "openTypeGlyphClass":1,
         "colorFlag":113,
         "layers":[
@@ -37429,7 +37411,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -37656,7 +37639,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ]
           }
@@ -38612,7 +38596,8 @@
                       ]
                     }
                   ]
-                }
+                },
+                "active":true
               }
             ],
             "guidelines":[
@@ -38687,7 +38672,7 @@
     "meta":{
       "metaCreator":true,
       "metaFormatVersion":8,
-      "metaBuild":"7649"
+      "metaBuild":"8898"
     },
     "settings":{
       "settings.RoundCoordinates":"round"
@@ -38715,6 +38700,7 @@
           "safeBottom":430,
           "underlineThickness":45,
           "underlinePosition":-88,
+          "cornerTension":0.67,
           "panose":"2 0 0 0 0 0 0 0 0 0",
           "guidelines":[
             {
@@ -39125,7 +39111,6 @@
         }
       }
     ],
-    "searchStorage":"",
     "expressionsUpdated":true
   }
 }

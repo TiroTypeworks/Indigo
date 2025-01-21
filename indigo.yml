@@ -1,5 +1,5 @@
 names:
-  5: Version 1.53 
+  5: Version 1.61 
 
 components:
   decompose: overlapping
@@ -10,52 +10,63 @@ fonts:
     ttf:
       source: source/TiroBangla-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
-    names:
-      5: Version 1.60 
+    meta:
+      slng: [Beng, Latn]
+      dlng: [Beng]
 
   TiroBangla-Italic:
     source: source/TiroBangla-Italic.ufo
     ttf:
       source: source/TiroBangla-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
-    names:
-      5: Version 1.60 
+    meta:
+      slng: [Beng, Latn]
+      dlng: [Beng]
 
   TiroDevaHindi-Regular:
     source: source/TiroDevaHindi-Regular.ufo
     ttf:
       source: source/TiroDevaHindi-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Deva, Latn]
+      dlng: [Deva]
 
   TiroDevaHindi-Italic:
     source: source/TiroDevaHindi-Italic.ufo
     ttf:
       source: source/TiroDevaHindi-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Deva, Latn]
+      dlng: [Deva]
 
   TiroDevaMarathi-Regular:
     source: source/TiroDevaMarathi-Regular.ufo
     ttf:
       source: source/TiroDevaMarathi-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
-    names:
-      5: Version 1.60 
+    meta:
+      slng: [Deva, Latn]
+      dlng: [Deva]
 
   TiroDevaMarathi-Italic:
     source: source/TiroDevaMarathi-Italic.ufo
     ttf:
       source: source/TiroDevaMarathi-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
-    names:
-      5: Version 1.60 
+    meta:
+      slng: [Deva, Latn]
+      dlng: [Deva]
 
   TiroDevaSanskrit-Regular:
     source: source/TiroDevaSanskrit-Regular.ufo
     ttf:
       source: source/TiroDevaSanskrit-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
-    names:
-      5: Version 1.60 
+    meta:
+      slng: [Deva, Latn]
+      dlng: [Deva]
 
   TiroDevaSanskrit-Italic:
     source: source/TiroDevaSanskrit-Italic.ufo
@@ -64,51 +75,78 @@ fonts:
       tables: [GDEF, GSUB, GPOS]
     names:
       5: Version 1.60 
+    meta:
+      slng: [Deva, Latn]
+      dlng: [Deva]
 
   TiroGurmukhi-Regular:
     source: source/TiroGurmukhi-Regular.ufo
     ttf:
       source: source/TiroGurmukhi-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Guru, Latn]
+      dlng: [Guru]
 
   TiroGurmukhi-Italic:
     source: source/TiroGurmukhi-Italic.ufo
     ttf:
       source: source/TiroGurmukhi-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Guru, Latn]
+      dlng: [Guru]
 
   TiroKannada-Regular:
     source: source/TiroKannada-Regular.ufo
     ttf:
       source: source/TiroKannada-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Knda, Latn]
+      dlng: [Knda]
 
   TiroKannada-Italic:
     source: source/TiroKannada-Italic.ufo
     ttf:
       source: source/TiroKannada-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Knda, Latn]
+      dlng: [Knda]
 
   TiroTamil-Regular:
     source: source/TiroTamil-Regular.ufo
     ttf:
       source: source/TiroTamil-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Taml, Latn]
+      dlng: [Taml]
 
   TiroTamil-Italic:
     source: source/TiroTamil-Italic.ufo
     ttf:
       source: source/TiroTamil-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Taml, Latn]
+      dlng: [Taml]
 
   TiroTelugu-Regular:
     source: source/TiroTelugu-Regular.ufo
     ttf:
       source: source/TiroTelugu-Regular.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Telu, Latn]
+      dlng: [Telu]
 
   TiroTelugu-Italic:
     source: source/TiroTelugu-Italic.ufo
     ttf:
       source: source/TiroTelugu-Italic.input.ttf
       tables: [GDEF, GSUB, GPOS]
+    meta:
+      slng: [Telu, Latn]
+      dlng: [Telu]
