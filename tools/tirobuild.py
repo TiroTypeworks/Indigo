@@ -233,6 +233,10 @@ def instantiateCFF2(otf, coordinates):
 
     # But tx doesn’t interpolate metrics, so we do it here.
     topDict = otf["CFF "].cff.topDictIndex[0]
+
+    # Some odd rounding happens to TopDict version, so reset it.
+    topDict.version = f"{otf["head"].fontRevision}"
+
     glyphOrder = otf.getGlyphOrder()
     fvarAxes = otf["fvar"].axes
     axes = {a.axisTag: (a.minValue, a.defaultValue, a.maxValue) for a in fvarAxes}
@@ -243,6 +247,9 @@ def instantiateCFF2(otf, coordinates):
     # Quantize to F2Dot14, to avoid surprise interpolations.
     loc = {k: floatToFixedToFloat(v, 14) for k, v in loc.items()}
     interpolate_cff2_metrics(otf, topDict, glyphOrder, loc)
+
+    # Set post table version to 3.0.
+    otf["post"].formatType = 3.0
 
     return otf
 
@@ -681,6 +688,10 @@ class Font:
             stream.seek(0)
             otf = TTFont(stream)
 
+            # Some odd rounding happens to fontRevision when loading from
+            # binary again, so reset it.
+            otf["head"].fontRevision = vf["head"].fontRevision
+
             # Remove Variations PS Name Prefix, and do so before updating the
             # name table so it does not leak into the instance PS name.
             otf["name"].removeNames(25)
@@ -851,6 +862,8 @@ class Font:
             self._save(new, fmt)
 
     def _save(self, otf, wfmt=None):
+        import re
+
         fmt = self.fmt
         fmtdir = fmt.name
         if self.variable:
@@ -858,7 +871,8 @@ class Font:
         if wfmt is not None:
             fmtdir += wfmt.name
             self.fmt = wfmt
-        parent = self.output / self.name.split("-")[0] / fmtdir
+        name = re.sub(r"\[.*?\]", "", self.name).split("-")[0]
+        parent = self.output / name / fmtdir
         parent.mkdir(parents=True, exist_ok=True)
         path = parent / self.filename
         logger.info(f"Saving {path}")
