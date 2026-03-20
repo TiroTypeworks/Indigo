@@ -119,7 +119,6 @@
       <point x="1110" y="287"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="520"/>
   <lib>
   <dict>
   <key>public.markColor</key>

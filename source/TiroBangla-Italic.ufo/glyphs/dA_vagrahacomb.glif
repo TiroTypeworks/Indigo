@@ -45,7 +45,6 @@
       <point x="93" y="914" type="curve"/>
     </contour>
   </outline>
-  <guideline angle="90" x="81" y="0"/>
   <lib>
   <dict>
   <key>public.markColor</key>

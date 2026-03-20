@@ -19,7 +19,7 @@
   <lib>
   <dict>
   <key>note</key>
-  <string>LSB +245</string>
+  <real>0</real>
   <key>public.markColor</key>
   <string>1,0.874,0.6,1</string>
   </dict>

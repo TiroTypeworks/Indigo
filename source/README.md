@@ -6,11 +6,9 @@ This folder contains the source files used during the build process, as well as 
 
 **/source folder**
 
-`.vfj` These are the canonical design sources for the Tiro Indic fonts, in FontLab 7’s JSON format. These contain all the outlines, spacing (but not kerning), and most font meta data used in the fonts.
+`.ufo` These are the source files for outlines etc. and are used by the build script. [For reference: these are exported from upstream FontLab 8 design sources using the default UFO package export profile.]
 
 `.input.ttf` These are the source files for the OpenType Layout tables, used by the build script. These are ‘shipped’ versions of the compiled TTFs from the /VOLT folder.
-
-`.ufo` These are the source files for outlines etc. used by the build script. These are exported directly from the FontLab 7 `.vfj` files using the default UFO package export profile.
 
 **/VOLT folder**
 

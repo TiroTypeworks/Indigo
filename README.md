@@ -1,6 +1,8 @@
 ![Indigo](https://github.com/TiroTypeworks/Indigo/blob/main/docs/images/indigobanner_2000.png)
 ## About Indigo
 
+*Note: as of v1.65 (March 2026) compiled font files are available from the Releases page.*
+
 **5 March 2022**
 
 Indigo is a project in four parts: a tranche of fonts for some of the major Indian writing systems; design and layout sources for these fonts; detailed written documentation regarding the design and production of these fonts; and a suite of test documents.

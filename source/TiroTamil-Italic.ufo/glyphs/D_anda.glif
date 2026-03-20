@@ -10,11 +10,10 @@
       <point x="150" y="582" type="line"/>
     </contour>
   </outline>
-  <guideline angle="0" x="0" y="602"/>
   <lib>
   <dict>
   <key>note</key>
-  <string>LSB +245</string>
+  <real>0</real>
   <key>public.markColor</key>
   <string>1,0.874,0.6,1</string>
   </dict>

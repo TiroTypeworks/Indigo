@@ -195,7 +195,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>250</integer>
   <key>openTypeNameDesigner</key>
-  <string>Gurmukhi: John Hudson &amp; Fiona Ross, assisted by Paul Hanslow. Latin: John Hudson with Paul Hanslow, assisted by Kaja S&#x142;ojewska.</string>
+  <string>Gurmukhi: John Hudson &amp; Fiona Ross, assisted by Paul Hanslow. Latin: John Hudson with Paul Hanslow, assisted by Kaja Słojewska.</string>
   <key>openTypeNameDesignerURL</key>
   <string>https://www.tiro.com/</string>
   <key>openTypeNameLicense</key>
@@ -304,38 +304,32 @@
     <integer>630</integer>
     <integer>699</integer>
     <integer>717</integer>
-    <integer>751</integer>
-    <integer>756</integer>
+    <integer>755</integer>
+    <integer>755</integer>
     <integer>884</integer>
     <integer>893</integer>
   </array>
   <key>postscriptFamilyBlues</key>
   <array>
-    <integer>458</integer>
     <integer>473</integer>
-    <integer>516</integer>
-    <integer>526</integer>
-    <integer>566</integer>
-    <integer>579</integer>
-    <integer>692</integer>
-    <integer>704</integer>
-    <integer>750</integer>
-    <integer>757</integer>
-    <integer>848</integer>
-    <integer>858</integer>
+    <integer>492</integer>
+    <integer>620</integer>
+    <integer>630</integer>
+    <integer>699</integer>
+    <integer>717</integer>
+    <integer>755</integer>
+    <integer>755</integer>
+    <integer>884</integer>
+    <integer>893</integer>
   </array>
   <key>postscriptFamilyOtherBlues</key>
   <array>
-    <integer>-262</integer>
-    <integer>-248</integer>
-    <integer>-199</integer>
-    <integer>-195</integer>
-    <integer>-17</integer>
+    <integer>-259</integer>
+    <integer>-242</integer>
+    <integer>-22</integer>
     <integer>1</integer>
-    <integer>326</integer>
-    <integer>334</integer>
-    <integer>368</integer>
-    <integer>381</integer>
+    <integer>302</integer>
+    <integer>314</integer>
   </array>
   <key>postscriptFontName</key>
   <string>TiroGurmukhi-Italic</string>

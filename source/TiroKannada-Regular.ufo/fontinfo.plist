@@ -171,31 +171,29 @@
   </array>
   <key>postscriptFamilyBlues</key>
   <array>
-    <integer>458</integer>
-    <integer>473</integer>
-    <integer>516</integer>
-    <integer>526</integer>
-    <integer>566</integer>
-    <integer>579</integer>
-    <integer>692</integer>
-    <integer>704</integer>
-    <integer>750</integer>
-    <integer>757</integer>
-    <integer>848</integer>
-    <integer>858</integer>
+    <integer>474</integer>
+    <integer>492</integer>
+    <integer>520</integer>
+    <integer>529</integer>
+    <integer>548</integer>
+    <integer>564</integer>
+    <integer>697</integer>
+    <integer>711</integer>
+    <integer>755</integer>
+    <integer>761</integer>
   </array>
   <key>postscriptFamilyOtherBlues</key>
   <array>
-    <integer>-262</integer>
-    <integer>-248</integer>
-    <integer>-199</integer>
-    <integer>-195</integer>
-    <integer>-17</integer>
+    <integer>-449</integer>
+    <integer>-443</integer>
+    <integer>-259</integer>
+    <integer>-242</integer>
+    <integer>-93</integer>
+    <integer>-86</integer>
+    <integer>-19</integer>
     <integer>1</integer>
-    <integer>326</integer>
-    <integer>334</integer>
-    <integer>368</integer>
-    <integer>381</integer>
+    <integer>300</integer>
+    <integer>314</integer>
   </array>
   <key>postscriptFontName</key>
   <string>TiroKannada-Regular</string>
